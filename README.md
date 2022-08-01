@@ -1,2 +1,2 @@
-[个人笔记](https://yichuancc.github.io/eleven.note/#/)
+[个人笔记](https://yichuancc.github.io/note/#/)
 
