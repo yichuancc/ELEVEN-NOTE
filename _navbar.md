@@ -1,8 +1,7 @@
 <!-- _navbar.md -->
 
 * 链接到我
-  * [Github地址](https://github.com/yichuancc)
-  * [Gitee地址](https://gitee.com/yichuancc)
+  * [B站](https://www.bilibili.com/)
 
 
 * 友情链接
