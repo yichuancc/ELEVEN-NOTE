@@ -110,7 +110,7 @@ docsify serve Docsify-Guide
             // 项目名称
             name: 'ELEVEN-NOTE',
             // 仓库地址，点击右上角的Github章鱼猫头像会跳转到此地址
-            repo: 'https://github.com/yichuancc',
+            repo: 'www.baidu.com',
             // 侧边栏支持，默认加载的是项目根目录下的_sidebar.md文件
             loadSidebar: true,
             // 导航栏支持，默认加载的是项目根目录下的_navbar.md文件
@@ -260,8 +260,8 @@ docsify serve Docsify-Guide
 <!-- _navbar.md -->
 
 * 链接到我
-  * [Github地址](https://github.com/yichuancc)
-  * [Gitee地址](https://gitee.com/yichuancc)
+  * [Github地址](https://www.baidu.com/)
+  * [Gitee地址](https://www.baidu.com/)
 
 
 * 友情链接
