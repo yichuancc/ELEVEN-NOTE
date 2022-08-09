@@ -1,7 +1,8 @@
 <!-- _navbar.md -->
 
 * 链接到我
-  * [B站](https://www.bilibili.com/)
+  * [封面](/)
+  * [首页](/README.md)
 
 
 * 友情链接
