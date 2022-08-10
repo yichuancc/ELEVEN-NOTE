@@ -12,13 +12,18 @@
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
     <!-- 默认主题 -->
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+    <!--gitalk评论-->
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
 </head>
 <body>
     <!-- 定义加载时候的动作 -->
     <div id="app">加载中...</div>
     <script>
         window.$docsify = {
-            // 项目名称
+            // 网站图标
+            //logo: '/favicon.ico',
+            // 项目名称 可包含html 自定义样式
+            //name: '<span style="color: black">ELEVEN-NOTE</span>',
             name: 'ELEVEN-NOTE',
             // 仓库地址，点击右上角的Github章鱼猫头像会跳转到此地址
             repo: 'https://github.com/yichuancc/ELEVEN-NOTE',
@@ -36,6 +41,8 @@
             subMaxLevel: 3,
             // 小屏设备下合并导航栏到侧边栏
             mergeNavbar: true,
+            //自定义主题颜色
+            themeColor: '#c74d4d',
             // 搜索配置(url：https://docsify.js.org/#/zh-cn/plugins?id=%e5%85%a8%e6%96%87%e6%90%9c%e7%b4%a2-search)
             search: {
                 maxAge: 86400000,// 过期时间，单位毫秒，默认一天
@@ -46,13 +53,20 @@
                 hideOtherSidebarContent: false,
                 namespace: 'ELEVEN-NOTE',
             },
+            //时间字数统计
             count:{
                 countable:true,
                 fontsize:'0.9em',
                 color:'rgb(90,90,90)',
                 language:'chinese'
 
-            }
+            },
+            //代码copy
+            copyCode: {
+                buttonText : '复制',
+                errorText  : '失败',
+                successText: '成功'
+            },
         }
     </script>
     <!-- docsify的js依赖 -->
@@ -73,6 +87,19 @@
     <script async src="https://notebook.js.org/plugin/js/busuanzi.pure.mini.js"></script>
     <!--java代码高亮-->
     <script src="https://cdn.jsdelivr.net/npm/prismjs@1.22.0/components/prism-java.min.js"></script>
-
+    <!--gitalk评论-->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+    <script>
+        const gitalk = new Gitalk({
+            clientID: '95ba2a7da60d1f4a2d81',
+            clientSecret: '8b11fddc545602682066d97284ad616835577926',
+            repo: 'https://github.com/yichuancc/NOTE-TALK',
+            owner: '274224864@qq.com',
+            admin: ['274224864@qq.com'],
+            // facebook-like distraction free mode
+            distractionFreeMode: false
+        })
+    </script>
 </body>
 </html>
