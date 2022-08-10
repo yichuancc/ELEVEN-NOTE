@@ -97,8 +97,10 @@
             repo: 'NOTE-TALK',
             owner: 'yichuancc',
             admin: ['yichuancc'],
-            enable: true, //是否开启Gitalk评论
-            // facebook-like distraction free mode
+            //是否开启Gitalk评论
+            enable: true,
+            id: decodeURI('{{ page.url }}'),
+            // 全屏遮罩
             distractionFreeMode: false
         })
     </script>
