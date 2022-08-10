@@ -101,7 +101,7 @@
             admin: ['yichuancc'],
             //是否开启Gitalk评论
             enable: true,
-            id: md5(location.href),
+            id: md5('{{ page.url }}'),
             // 全屏遮罩
             distractionFreeMode: false
         })
