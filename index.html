@@ -104,5 +104,11 @@
             distractionFreeMode: false
         })
     </script>
+    <script>
+        //离校模式
+        if (typeof navigator.serviceWorker !== 'undefined') {
+            navigator.serviceWorker.register('sw.js')
+        }
+    </script>
 </body>
 </html>
