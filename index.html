@@ -90,8 +90,6 @@
     <!--gitalk评论-->
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
-    <!--md5加密-->
-    <script src="md5.min.js"></script>
     <script>
         const gitalk = new Gitalk({
             clientID: '95ba2a7da60d1f4a2d81',
@@ -101,7 +99,8 @@
             admin: ['yichuancc'],
             //是否开启Gitalk评论
             enable: true,
-            id: md5('{{ page.url }}'),
+            id: 'ELEVEN NOTE TALK',
+            title: 'ELEVEN NOTE',
             // 全屏遮罩
             distractionFreeMode: false
         })
