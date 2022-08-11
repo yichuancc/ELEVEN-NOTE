@@ -1,9 +1,6 @@
 ## Docsify使用指南
 * [Docsify](https://docsify.js.org/#/)
 
-
-![image-20211016010648260](images/image-20211010140904827.png)
-
 ## Node.js 安装配置
 
 * [nodejs下载地址](http://nodejs.cn/download/)
