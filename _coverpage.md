@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-
+![icon](common/images/icon.png)
 
 ## **种一棵树最好的时间是十年前**
 
@@ -23,5 +23,7 @@
 
 <!-- 背景图片 -->
 
-![](common/images/bg.png)
+<!--![](common/images/bg.png)-->
 
+<!-- 背景颜色 -->
+![color](#fff)

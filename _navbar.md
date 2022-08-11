@@ -1,8 +1,6 @@
 <!-- _navbar.md -->
 
-* 链接到我
-  * [封面](/)
-  * [首页](/README.md)
+* [ 🙂 首页](https://elevencc.cn/#/README)
 
 
 * 友情链接

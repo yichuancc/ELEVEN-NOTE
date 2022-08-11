@@ -15,7 +15,16 @@
     <!--gitalk评论-->
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
     <style>
-        /*滚动条样式 start*/
+        /* 标题栏固定 */
+        .app-nav{
+            margin: 0 80px 0 0;
+            position: fixed;
+            padding: 10px 0 10px 0;/*上、右、下、左*/
+            width: calc(100% - 445px);
+            background-color: #fff;
+            border-bottom: 1px solid #eee;
+        }
+
         /* 滚动条宽度 */
         ::-webkit-scrollbar {
             width: 5px;
@@ -27,7 +36,6 @@
             border-radius: 2em;
         }
 
-        /*滚动条样式 end*/
     </style>
 </head>
 <body>
@@ -100,9 +108,27 @@
 <!--字数统计插件-->
 <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
 <!-- 访问量统计 -->
-<script async src="https://notebook.js.org/plugin/js/busuanzi.pure.mini.js"></script>
-<!--java代码高亮-->
-<script src="https://cdn.jsdelivr.net/npm/prismjs@1.22.0/components/prism-java.min.js"></script>
+<script async src="common/js/busuanzi.pure.mini.js"></script>
+<!--代码块样式优化-->
+<script src="common/js/prism-cpp.js"></script>
+<script src="common/js/prism-css.js"></script>
+<script src="common/js/prism-docker.js"></script>
+<script src="common/js/prism-java.js"></script>
+<script src="common/js/prism-javascript.js"></script>
+<script src="common/js/prism-json.js"></script>
+<script src="common/js/prism-latex.js"></script>
+<script src="common/js/prism-sql.js"></script>
+<script src="common/js/prism-markdown.js"></script>
+<script src="common/js/prism-bash.min.js"></script>
+<script src="common/js/prism-php.min.js"></script>
+<script src="common/js/prism-scala.min.js"></script>
+<script src="common/js/prism-nginx.min.js"></script>
+<script src="common/js/prism-json.min.js"></script>
+<script src="common/js/prism-markdown.min.js"></script>
+<script src="common/js/prism-python.js"></script>
+<script src="common/js/prism-yaml.js"></script>
+<script src="common/js/prism-go.js"></script>
+<script src="common/js/prism-matlab.js"></script>
 
 <!-- 回到顶部功能 -->
 <script src="common/js/jquery.js"></script>
