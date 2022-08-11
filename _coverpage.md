@@ -23,5 +23,5 @@
 
 <!-- 背景图片 -->
 
-![](images/bg.png)
+![](common/images/bg.png)
 
