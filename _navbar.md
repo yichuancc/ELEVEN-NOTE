@@ -1,6 +1,6 @@
 <!-- _navbar.md -->
 
-* [ 🙂 首页](https://elevencc.cn/#/README)
+* [ 🙂 首页](https://elevencc.cn/#/README  ':target=_self')
 
 
 * 友情链接
