@@ -1,6 +1,8 @@
-## 1、时间日期类
+# 
 
-### 1、LocalDate；LocalTime；LocalDateTime类
+# **1、时间日期类**
+
+## 1、LocalDate、LocalTime、LocalDateTime类
 
 ```java
 //获取当前时间
@@ -73,7 +75,7 @@ public class MyTest {
 }
 ```
 
-### 2、Instant 时间戳类
+## 2、Instant 时间戳类
 
 ```java
 A：获取对象的方法： now()
@@ -97,7 +99,7 @@ F： ofEpochSecond(int second) 给计算机元年增加指定秒数
 	ofEpochMilli(int milli) 给计算机元年增加指定毫秒数		
 ```
 
-### 3、Duration和Period
+## 3、Duration和Period
 
 ```java
 Duration : 用于计算两个“时间”间隔的类
@@ -118,7 +120,7 @@ Period : 用于计算两个“日期”间隔的类
 		getDays();//间隔多少天
 ```
 
-### 4、TemporalAdjuster（接口）
+## 4、TemporalAdjuster（接口）
 
 ```java
 1、使用TemporalAdjusters自带的常量来设置日期：
@@ -150,14 +152,14 @@ Period : 用于计算两个“日期”间隔的类
     System.out.println(workDay);	
 ```
 
-### 5、ZonedDate,ZonedTime,ZonedDateTime:带时区的时间或日期
+## 5、ZonedDate、ZonedTime、ZonedDateTime带时区的时间或日期
 
 ```
   用法和 LocalDate、LocalTime、LocalDateTime一样，
   只不过ZonedDate,ZonedTime,ZonedDateTime 这三个类带有当前系统的默认时区
 ```
 
-### 6、ZoneID 世界时区类
+## 6、ZoneID 世界时区类
 
 ```java
 getAvailableZoneIds();//获取世界各个地方的时区的集合
@@ -167,14 +169,14 @@ ZoneId timeID=ZoneId.of("Asia/Shanghai");//获取指定时区ID对象
 ZonedDateTime time=LocalDateTime.now().atZone(timeID);
 ```
 
-## 2、Lambda表达式
+# **2、Lambda表达式**
 
 ```
 Lambda表达式是匿名内部类的简写方式，但必须函数式接口,才能用Lambda表达式
 函数式接口的定义: 只包含一个抽象方法的接口
 ```
 
-#### Java给我们提供的函数式接口
+**Java给我们提供的函数式接口**
 
 **4大核心函数式接口**
 
@@ -271,9 +273,9 @@ Function<String,MyTest> fun=(str)->new MyTest(str);
 Function<String,MyTest> fun1= MyTest::new;
 ```
 
-## 3、Stream流
+# **3、Stream流**
 
-### 1、Stream概述
+## 1、Stream概述
 
 ```
 概述：Stream流是数据渠道，用于操作数据源（集合、数组等）所生成的元素序列。
@@ -290,7 +292,7 @@ Stream 的操作三个步骤：
 		一个终止操作，执行中间操作链，并产生结果
 ```
 
-### 2、获取Stream流
+## 2、获取Stream流
 
 ```java
 1.Java8 中的 Collection 接口被扩展，提供了两个获取流的方法：
@@ -309,7 +311,7 @@ public static<T> Stream<T> iterate(final T seed, finalUnaryOperator<T> f)//迭�
 public static<T> Stream<T> generate(Supplier<T> s)//生成
 ```
 
-### 3、Stream 的中间操作
+## 3、Stream 的中间操作
 
 ```java
 注意：多个中间操作可以连接起来形成一个流水线，除非流水线上触发终止操作，否则中间操作不会执行，
@@ -331,7 +333,7 @@ public static<T> Stream<T> generate(Supplier<T> s)//生成
 	sorted(Comparator comp)	//产生一个新流，其中按比较器顺序排序,传入一个比较器
 ```
 
-### 4、Stream 的终止操作
+## 4、Stream 的终止操作
 
 ```java
 注意：终端操作会从流的流水线生成结果。其结果可以是任何不是流的值，例如：List、Integer，甚至是 void 。
