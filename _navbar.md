@@ -3,7 +3,7 @@
 * [ 🙂 首页](https://elevencc.cn/#/README  ':target=_self')
 
 
-* 友情链接
-  * [Docsify](https://docsify.js.org/#/)
+* 链接
   * [Markdown ](https://markdown.com.cn/basic-syntax/)
 
+  * [JavaGuide](https://javaguide.cn/)
