@@ -145,3 +145,6 @@ Markdown是一种轻量级标记语言，排版语法简洁，让人们更多地
 * [Typora 中的图像处理](https://support.typora.io/Images/#when-insert-images)
 * [Typora使用问题](https://www.typora.net/tag/typora%e4%bd%bf%e7%94%a8/)
 
+# Typora 保姆级教程
+
+* [Typora 保姆级教程](https://mp.weixin.qq.com/s/W_sJw0T3X35HG7eFyTLr5A)
