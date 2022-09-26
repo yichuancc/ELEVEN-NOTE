@@ -69,6 +69,10 @@
 * [mybatis-plus用法](https://mp.weixin.qq.com/s/tAXK6a2tJdBRgg_B8yncAA)
 * [MyBatis-Plus 底层是如何处理](https://mp.weixin.qq.com/s/yjxV0GRiWPcvN2q-C5-VnA)
 
+**shiro**
+
+* [37000 字shiro](https://mp.weixin.qq.com/s/NmwqOM5rSDlmvs-Bi4P2Ag)
+
 ## 消息队列
 
 * [Kafka、RabbitMQ、RocketMQ、ActiveMQ 综合对比](https://mp.weixin.qq.com/s/AgBOplDsVc2CL57WWv9eaw)
