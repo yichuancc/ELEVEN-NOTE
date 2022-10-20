@@ -25,6 +25,14 @@
             border-bottom: 1px solid #eee;
         }
 
+        /* 猫隐藏 */
+        .github-corner {
+            position: absolute;
+            z-index: 999999;
+            top: 0;
+            display: none
+        }
+
         /* 滚动条宽度 */
         ::-webkit-scrollbar {
             width: 5px; /* 纵向滚动条 宽度 */
@@ -262,8 +270,8 @@
         var s = [];
         e.requestAnimationFrame = e.requestAnimationFrame || e.webkitRequestAnimationFrame ||
             e.mozRequestAnimationFrame || e.oRequestAnimationFrame || e.msRequestAnimationFrame || function (e) {
-            setTimeout(e, 1e3 / 60)
-        }
+                setTimeout(e, 1e3 / 60)
+            }
         i(
             ".heart{width: 10px;height: 10px;position: fixed;background: #f00;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);}.heart:after,.heart:before{content: '';width: inherit;height: inherit;background: inherit;border-radius: 50%;-webkit-border-radius: 50%;-moz-border-radius: 50%;position: fixed;}.heart:after{top: -5px;}.heart:before{left: -5px;}"
         )
