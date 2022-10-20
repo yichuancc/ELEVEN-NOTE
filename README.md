@@ -98,6 +98,10 @@
 * [程序员需知的 58 个网站](https://mp.weixin.qq.com/s/a1GQhRUjGZ65gfijwugoHg)
 * [阿里巴巴 34 个牛逼 GitHub 项目](https://mp.weixin.qq.com/s/sJk8kWuUoPAMkiRrZpG32w)
 
+# 面经
+
+* [大杂烩面经](/other/大杂烩面经.md)
+
 # 博客搭建
 
 * [Typora快速入门](/ProjectDocs/Typora快速入门.md)
