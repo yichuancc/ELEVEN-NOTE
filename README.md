@@ -21,6 +21,13 @@
 * [03JavaWeb](/JavaWeb/03JavaWeb.md)
 * [04Mybatis和Spring](/JavaWeb/04Mybatis和Spring.md)
 
+**Spring、Mybatis、SpringMVC课堂笔记整合**
+
+* [01Spring](/SSM/Spring5课堂笔记.md)
+* [02Mybatis](/SSM/Mybatis课堂笔记.md)
+* [03SpringMVC](/SSM/SpringMVC课堂笔记.md)
+* [04SSM整合](/SSM/SSM整合.md)
+
 # 转载收藏⭐
 
 ## Java
@@ -101,6 +108,9 @@
 # 面经
 
 * [大杂烩面经](/other/大杂烩面经.md)
+
+# 小技巧
+
 * [小技巧](/other/小技巧.md)
 
 # 博客搭建
