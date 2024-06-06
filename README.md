@@ -52,8 +52,11 @@
 * [对外接口请求设计](/design/接口设计/对外接口请求设计.md)
 * [三方接口调用方案设计](https://mp.weixin.qq.com/s/FQtkWhLa_d1nQfBHjuVd9g)
 * [crabc](https://gitee.com/linebyte/crabc)：Crabc是一款低代码API开发平台，企业级接口管理、接口开发和接口门户系统。深度整合SpringBoot和Mybatis特性实现动态数据源、动态SQL和标签，可视化编写SQL快速发布接口。
+* [请求参数进行SHA256/MD5加密](https://blog.csdn.net/likai0728/article/details/130688594)
 
+## 导入功能
 
+* [B端后台导入功能-人人都是产品经理](https://www.woshipm.com/pd/5543901.html)
 
 # 转载收藏⭐
 
