@@ -2,9 +2,58 @@
 
  <b>努力和遗憾，那个更痛苦</b>
 
+# 工具
+
+## 设计
+
+[Processon](https://www.processon.com) | [xmind](https://xmind.cn/) | [即时设计](https://js.design/) | [Axure](https://www.axure.com.cn/78629) | [墨刀](https://modao.cc/) | [draw.io](https://app.diagrams.net/)
+
+## 在线工具
+
+[Json.con](https://www.json.cn/) | [蛙蛙工具](https://www.iamwawa.cn/) | [在线工具](https://tool.lu/) | [bejson](https://www.bejson.com/)
+
+## 开源网站
+
+[oschina](https://www.oschina.net/) | 
+
+## 开发工具
+
+### 软件安装
+
+[Jrebel](https://jrebel.com.cn/#/)
+
+[VMware Workstation Pro](https://blog.csdn.net/wangpaiblog/article/details/112152218)
+
+[Tampermonkey](https://www.tampermonkey.net/)
+
+[插件用户脚本](https://greasyfork.org/zh-CN/scripts)
+
+### 辅助工具
+
+* 内网穿透：[natapp](https://natapp.cn/)
+* Redis：[AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager/releases)
+* Linux：[Tabby](https://github.com/Eugeny/tabby/releases)
+
+### 软件下载
+
+#### 镜像资源
+
+* [搜狐开源镜像](http://mirrors.sohu.com/)
+* [阿里云开源镜像](http://mirrors.aliyun.com/)
+* [网易开源镜像](http://mirrors.163.com/)
+
+#### 官方链接
+
+* [Java](https://www.oracle.com/cn/java/technologies/downloads/)
+* [MySQL](https://dev.mysql.com/downloads/mysql/5.7.html)
+* [Idea plugins](https://plugins.jetbrains.com/)
+* [Idea](https://www.jetbrains.com/idea/download/other.html)
+
 # Java
 
-**Java入门学习笔记和记录**
+**Java入门学习**
+
+**笔记和记录**
 
 * [01Java基础](/Java/01Java基础.md)
 * [02面向对象](/Java/02面向对象.md)
