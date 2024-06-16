@@ -49,7 +49,7 @@
 </head>
 <body>
 <!-- 定义加载时候的动作 -->
-<div id="app"> 😐 😑 😶 load ...</div>
+<div id="app"> load ...</div>
 <script>
 
     window.$docsify = {
@@ -57,7 +57,7 @@
         //logo: '/favicon.ico',
         // 项目名称 可包含html 自定义样式
         //name: '<span style="color: black">ELEVEN-NOTE</span>',
-        name: '😉 ELEVEN-NOTE',
+        name: 'ELEVEN-NOTE',
         // 仓库地址，点击右上角的Github章鱼猫头像会跳转到此地址
         repo: 'https://github.com/yichuancc/ELEVEN-NOTE',
         // 侧边栏支持，默认加载的是项目根目录下的_sidebar.md文件
@@ -69,9 +69,9 @@
         //访问主页时仅加载封面   true时会影响gitalk的加载顺序
         //onlyCover: true,
         // 最大支持渲染的标题层级
-        maxLevel: 3,
+        maxLevel: 2,
         // 自定义侧边栏后默认不会再生成目录，设置生成目录的最大层级（建议配置为2-4）
-        subMaxLevel: 3,
+        subMaxLevel: 2,
         // 小屏设备下合并导航栏到侧边栏
         mergeNavbar: true,
         //自定义主题颜色
@@ -164,40 +164,41 @@
     });
 </script>
 
-<script src="https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js"></script>
-<script>
-    L2Dwidget.init({
-        "model": {
-            //jsonpath控制显示那个小萝莉模型，
-            //(切换模型需要改动)
-            //jsonPath: "https://unpkg.com/live2d-widget-model-koharu@1.0.5/assets/koharu.model.json",
-            //jsonPath:"https://unpkg.com/live2d-widget-model-z16@1.0.5/assets/z16.model.json",
-            //jsonPath:"https://unpkg.com/live2d-widget-model-wanko@1.0.5/assets/wanko.model.json",
-            //jsonPath:"https://unpkg.com/live2d-widget-model-tororo@1.0.5/assets/tororo.model.json",
-            //jsonPath:"https://unpkg.com/live2d-widget-model-shizuku@1.0.5/assets/shizuku.model.json",
-            //jsonPath:"https://unpkg.com/live2d-widget-model-izumi@1.0.5/assets/izumi.model.json",
-            jsonPath: "https://unpkg.com/live2d-widget-model-hibiki@1.0.5/assets/hibiki.model.json",
-            //jsonPath:"https://unpkg.com/live2d-widget-model-shizuku/assets/shizuku.model.json",
-            //jsonPath:"https://unpkg.com/live2d-widget-model-haruto@1.0.5/assets/haruto.model.json",
-            "scale": 1
-        },
-        "display": {
-            "position": "right", //看板娘的表现位置
-            "width": 60,  //小萝莉的宽度
-            "height": 120, //小萝莉的高度
-            "hOffset": 32,
-            "vOffset": 5
-        },
-        "mobile": {
-            "show": false,
-            "scale": 0.5
-        },
-        "react": {
-            "opacityDefault": 1.0,
-            "opacityOnHover": 0.2
-        }
-    });
-</script>
+<!--二次元看板娘-->
+<!--<script src="https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js"></script>-->
+<!--<script>-->
+<!--    L2Dwidget.init({-->
+<!--        "model": {-->
+<!--            //jsonpath控制显示那个小萝莉模型，-->
+<!--            //(切换模型需要改动)-->
+<!--            //jsonPath: "https://unpkg.com/live2d-widget-model-koharu@1.0.5/assets/koharu.model.json",-->
+<!--            //jsonPath:"https://unpkg.com/live2d-widget-model-z16@1.0.5/assets/z16.model.json",-->
+<!--            //jsonPath:"https://unpkg.com/live2d-widget-model-wanko@1.0.5/assets/wanko.model.json",-->
+<!--            //jsonPath:"https://unpkg.com/live2d-widget-model-tororo@1.0.5/assets/tororo.model.json",-->
+<!--            //jsonPath:"https://unpkg.com/live2d-widget-model-shizuku@1.0.5/assets/shizuku.model.json",-->
+<!--            //jsonPath:"https://unpkg.com/live2d-widget-model-izumi@1.0.5/assets/izumi.model.json",-->
+<!--            jsonPath: "https://unpkg.com/live2d-widget-model-hibiki@1.0.5/assets/hibiki.model.json",-->
+<!--            //jsonPath:"https://unpkg.com/live2d-widget-model-shizuku/assets/shizuku.model.json",-->
+<!--            //jsonPath:"https://unpkg.com/live2d-widget-model-haruto@1.0.5/assets/haruto.model.json",-->
+<!--            "scale": 1-->
+<!--        },-->
+<!--        "display": {-->
+<!--            "position": "right", //看板娘的表现位置-->
+<!--            "width": 60,  //小萝莉的宽度-->
+<!--            "height": 120, //小萝莉的高度-->
+<!--            "hOffset": 32,-->
+<!--            "vOffset": 5-->
+<!--        },-->
+<!--        "mobile": {-->
+<!--            "show": false,-->
+<!--            "scale": 0.5-->
+<!--        },-->
+<!--        "react": {-->
+<!--            "opacityDefault": 1.0,-->
+<!--            "opacityOnHover": 0.2-->
+<!--        }-->
+<!--    });-->
+<!--</script>-->
 
 <!--gitalk评论-->
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
