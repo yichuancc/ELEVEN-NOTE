@@ -129,6 +129,7 @@
 * [剑指offer](https://www.nowcoder.com/exam/oj/ta?page=1&tpId=13&type=13)
 * [spring-boot-demo](https://gitee.com/BiMon/spring-boot-demo)：Spring Boot 教程、技术栈示例代码。在工作中的最佳实践，帮助快速上手运用到工作中。
 * [Spring-Oauth2-Toturials](https://github.com/lansinuote/Spring-Oauth2-Toturials)：使用Spring Oauth2做分布式鉴权
+* [SpringBoot-Labs](https://github.com/yudaocode/SpringBoot-Labs)：一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。
 
 ## 博客
 
@@ -267,7 +268,7 @@
 * [Idea plugins](https://plugins.jetbrains.com/)
 * [Idea](https://www.jetbrains.com/idea/download/other.html)
 
-**辅助工具**
+**软件安装**
 
 * 内网穿透：[natapp](https://natapp.cn/) | [sunny](https://www.ngrok.cc/)
 * Redis：[AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager/releases)
