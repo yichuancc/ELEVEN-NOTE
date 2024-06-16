@@ -2,54 +2,21 @@
 
  [<b>努力和遗憾，那个更痛苦</b>](https://github.com/yichuancc/elevencc-labs)
 
-# 工具
+# 应用导航
 
-## 设计
-
-[Processon](https://www.processon.com) | [xmind](https://xmind.cn/) | [即时设计](https://js.design/) | [Axure](https://www.axure.com.cn/78629) | [墨刀](https://modao.cc/) | [draw.io](https://app.diagrams.net/)
-
-## 在线工具
+**在线工具**
 
 [Json.con](https://www.json.cn/) | [蛙蛙工具](https://www.iamwawa.cn/) | [在线工具](https://tool.lu/) | [bejson](https://www.bejson.com/)
 
-## 开源网站
+**开源网站**
 
-[oschina](https://www.oschina.net/) | [github](https://github.com/) | 
+[oschina](https://www.oschina.net/) | [github](https://github.com/) | [gitee](https://gitee.com/explore)
 
-## 开发工具
+**设计**
 
-### 软件安装
+[Processon](https://www.processon.com) | [xmind](https://xmind.cn/) | [即时设计](https://js.design/) | [Axure](https://www.axure.com.cn/78629) | [墨刀](https://modao.cc/) | [draw.io](https://app.diagrams.net/)
 
-* [Jrebel](https://jrebel.com.cn/#/)
-
-* [VMware Workstation Pro](https://blog.csdn.net/wangpaiblog/article/details/112152218)
-
-* [Tampermonkey](https://www.tampermonkey.net/)
-
-* [插件用户脚本](https://greasyfork.org/zh-CN/scripts)
-
-### 辅助工具
-
-* 内网穿透：[natapp](https://natapp.cn/) | [sunny](https://www.ngrok.cc/)
-* Redis：[AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager/releases)
-* Linux：[Tabby](https://github.com/Eugeny/tabby/releases)
-
-### 软件下载
-
-#### 镜像资源
-
-* [搜狐开源镜像](http://mirrors.sohu.com/)
-* [阿里云开源镜像](http://mirrors.aliyun.com/)
-* [网易开源镜像](http://mirrors.163.com/)
-
-#### 官方链接
-
-* [Java](https://www.oracle.com/cn/java/technologies/downloads/)
-* [MySQL](https://dev.mysql.com/downloads/mysql/5.7.html)
-* [Idea plugins](https://plugins.jetbrains.com/)
-* [Idea](https://www.jetbrains.com/idea/download/other.html)
-
-# 开源项目
+# 开源项目⭐
 
 ## 开源项目
 
@@ -62,12 +29,12 @@
 * [pig4cloud](https://pig4cloud.com/)：[gitee](https://gitee.com/log4j/pig)基于Spring Boot 3.3、 Spring Cloud 2023 & Alibaba、 SAS OAuth2 的微服务RBAC 权限管理系统。[开发手册](https://www.yuque.com/pig4cloud/pig/lceu0v)
 * [zlt2000](https://gitee.com/zlt2000) / [microservices-platform](https://gitee.com/zlt2000/microservices-platform)：基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构。并引入组件化的思想实现高内聚低耦合并且高度可配置化，适合学习和企业中使用。真正实现了基于RBAC、jwt和oauth2的无状态统一权限认证的解决方案，面向互联网设计同时适合B端和C端用户，支持CI/CD多环境部署，并提供应用管理方便第三方系统接入；同时还集合各种微服务治理功能和监控功能。模块包括:企业级的认证系统、开发平台、应用监控、慢sql监控、统一日志、单点登录、Redis分布式高速缓存、配置中心、分布式任务调度、接口文档、代码生成等等。[开发手册](https://www.kancloud.cn/zlt2000/microservices-platform/)，参考项目[open-capacity-platform](https://gitee.com/dromara/open-capacity-platform)
 * [snowy](https://snowy.xiaonuo.vip/login)：[gitee](https://gitee.com/xiaonuobase/snowy)国内首个国密前后分离快速开发平台💖，采用Vue3+AntDesignVue4+Vite5+SpringBoot3+Mp+HuTool+SaToken。集成国密加解密插件，在前后分离框架中，实现前后分离“密”不可分；同时实现国产化机型、中间件、数据库适配，是您的不二之选；最后官网提供工作流、多租户、多数据源、Vue3表单设计器等丰富插件灵活使用。
-* [RuoYi](https://doc.ruoyi.vip/ruoyi/)：**RuoYi**是一个后台管理系统，基于经典技术组合（Spring Boot、Apache Shiro、MyBatis、Thymeleaf）主要目的让开发者注重专注业务，降低技术难度，从而节省人力成本，缩短项目周期，提高软件安全质量。使用若依快速构建web应用程序
+* [RuoYi](https://doc.ruoyi.vip/ruoyi/)：RuoYi是一个后台管理系统，基于经典技术组合（Spring Boot、Apache Shiro、MyBatis、Thymeleaf）主要目的让开发者注重专注业务，降低技术难度，从而节省人力成本，缩短项目周期，提高软件安全质量。使用若依快速构建web应用程序
 * [Guns](https://www.javaguns.com/)：Guns是一个现代化的Java应用开发基础框架，基于主流技术Spring Boot2，Guns的核心理念是提高开发人员开发效率，降低企业信息化系统的开发成本，提高企业开发人员水平。
 * [PlayEdu开源培训系统](https://gitee.com/playeduxyz/playedu)：100%开源的企业培训系统，界面美观，操作简单，一键部署您的私有化培训平台。
 * [erupt](https://gitee.com/shinestmt/erupt)：🚀 低代码后台管理框架，对象视图模型 → 0️⃣ 零前端代码、零代码生成、零SQL、零API声明、零DTO / VO / BO 创建，表结构注释自动生成 🛡 内置严密安全策略，细颗粒权限隔离 ☁️ Cloud开发能力，不停机升级，轻依赖，集群内每个服务都可以轻松实现数据可视化 ️☁️
 
-## 功能设计
+## 开源功能
 
 * [dingding-mid-business-java](https://gitee.com/gailunJAVA/dingding-mid-business-java)：仿钉钉飞书企业微信样式设计器,基于Flowable,Camunda
 * [bruce](https://gitee.com/lwj) / [flowable](https://gitee.com/lwj/flow)：企业级流程中心（基于flowable和bpmn.js封装的流程引擎，采用Springboot，Mybatis-plus, Ehcache, sa-token 等框架技术,前端采用Vue3&Antd，Vben）
@@ -78,8 +45,10 @@
 * [填鸭表单](https://www.tduckcloud.com/)：[gitee](https://gitee.com/TDuckApp/tduck-platform)一款免费的表单问卷系统；可快速创建问卷或业务表单，采用无代码理念支持开发自定义组件。采用SpringBoot+Vue+ElementUI技术栈，功能强大界面清新，支持一键部署。
 * [Java代码生成平台](https://java.bejson.com/generator/#)：[gitee](https://gitee.com/moshowgame/SpringBootCodeGenerator)基于SpringBoot2+Freemarker的代码生成器，用DDL SQL语句生成JPA/JdbcTemplate/Mybatis/BeetlSQL相关代码，支持mysql/oracle/pgsql三大数据库。
 * [screw](https://github.com/pingfangushi/screw)：简洁好用的数据库表结构文档生成器
-
 * [code-gen](https://gitee.com/durcframework/code-gen)：一款代码生成工具，可自定义模板生成不同的代码，支持MySQL、Oracle、SQL Server、PostgreSQL
+* [mzt-biz-log](https://github.com/mouzt/mzt-biz-log)：支持Springboot，基于注解的可使用变量、可以自定义函数的通用操作日志组件
+* [ToolGood.Words](https://github.com/toolgood/ToolGood.Words)：一款高性能敏感词(非法词/脏字)检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能
+* [DocSys](https://gitee.com/elfbobo/DocSys)：DocSys是基于Java开发的Web文件管理系统，旨在为个人和企业用户提供一个简单、方便、安全的文件存储方案，采用Windows桌面系统和Apple手机的用户操作习惯，支持使用SVN和GIT进行历史版本管理、支持文件加密、支持文件内容全文搜索、支持文件预览、支持文件权限管理、支持用户分组管理，支持扩展和定制。
 
 ## 开源工具库
 
@@ -107,8 +76,9 @@
 * [Dubbo](https://cn.dubbo.apache.org/zh-cn/overview/what/)：Dubbo 被设计为高度可扩展，用户可以方便的实现流量拦截、选址的各种定制逻辑。
 * [ShardingSphere](https://shardingsphere.apache.org/)：Apache ShardingSphere 是一款分布式的数据库生态系统， 可以将任意数据库转换为分布式数据库，并通过数据分片、弹性伸缩、加密等能力对原有数据库进行增强。
 * [RocketMQ](https://rocketmq.apache.org/)：RocketMQ 已经成为业内共识的金融级可靠业务消息首选方案，被广泛应用于互联网、大数据、移动互联网、物联网等领域的业务场景。
+* [onlyoffice](https://www.onlyoffice.com/)：ONLYOFFICE是一个开源的在线协作办公套件，结合了文档、电子表格、演示文稿和表单的编辑器。
 
-## 参考项目
+## other链接
 
 ### 前端
 
@@ -137,18 +107,28 @@
 * [quarkus](https://github.com/quarkusio/quarkus)：Supersonic Subatomic Java.
 * [vert.x](https://github.com/eclipse-vertx/vert.x)：Vert.x is a tool-kit for building reactive applications on the JVM
 * [Debezium](https://debezium.io/documentation/reference/1.9/)：Debezium 是一组分布式服务，用于捕获数据库中的更改，以便您的应用程序可以查看这些更改并做出响应。Debezium 将每个数据库表中的所有行级更改记录在*更改事件流*中，应用程序只需读取这些流即可按发生顺序查看更改事件。
+* [Redis设计与实现](https://huangz.works/redisbook1e/)：一书全面而完整地讲解了 Redis 的内部运行机制， 对 Redis 的大多数单机功能以及所有多机功能的实现原理进行了介绍， 展示了这些功能的核心数据结构以及关键的算法思想。
 
 ### 测试
 
 * [httpRunner](https://httprunner.com/)：接口测试 / 压力测试 / DevOps / 数字体验监测
+* [Fiddler抓包工具](https://www.cnblogs.com/yyhh/p/5140852.html)
 
-### 搭建博客
+### 博客
 
 * [VuePress](https://vuepress.vuejs.org/zh/)： Vue 驱动的静态网站生成器
 * [docsify](https://docsify.js.org/#/)：docsify 可以快速帮你生成文档网站。不同于 GitBook、Hexo 的地方是它不会生成静态的 `.html` 文件，所有转换工作都是在运行时。如果你想要开始使用它，只需要创建一个 `index.html` 就可以开始编写文档并直接[部署在 GitHub Pages](https://docsify.js.org/#/zh-cn/deploy)。
 * [hexo](https://hexo.io/zh-cn/)：快速、简洁且高效的博客框架。[主题风格](https://github.com/fluid-dev/hexo-theme-fluid)
 
-# 资料链接
+# 资料链接⭐
+
+## 练习
+
+* [力扣](https://leetcode.cn/)
+* [牛客网](https://www.nowcoder.com/)
+* [剑指offer](https://www.nowcoder.com/exam/oj/ta?page=1&tpId=13&type=13)
+* [spring-boot-demo](https://gitee.com/BiMon/spring-boot-demo)：Spring Boot 教程、技术栈示例代码。在工作中的最佳实践，帮助快速上手运用到工作中。
+* [Spring-Oauth2-Toturials](https://github.com/lansinuote/Spring-Oauth2-Toturials)：使用Spring Oauth2做分布式鉴权
 
 ## 博客
 
@@ -157,7 +137,7 @@
 * [JavaGuide](https://javaguide.cn/home.html)：Java学习&面试指南
 * [Java面试指北-cnk4](https://www.yuque.com/snailclimb/mf2z3k?)
 * [芋道源码-coke](https://www.iocoder.cn/)：纯源码解析博客，愿半生编码，如一生老友！
-* [美团技术团队](https://tech.meituan.com/)：[高性能队列](https://tech.meituan.com/2016/11/18/disruptor.html)
+* [美团技术团队](https://tech.meituan.com/)：[高性能队列](https://tech.meituan.com/2016/11/18/disruptor.html)、[缓存那些事](https://tech.meituan.com/2017/03/17/cache-about.html)
 * [廖雪峰](https://www.liaoxuefeng.com/)
 * [狂神说](https://www.kuangstudy.com/app)
 * [Road To Coding](https://www.r2coding.com/)：本站取名 **r2coding**，即 **Road To Coding**，意为「编程自学之路」，是自学编程以来所用资源和分享内容的大聚合。
@@ -167,6 +147,8 @@
 * [Java 全栈知识体系](https://www.pdai.tech/)
 * [敖丙JavaFamily](https://github.com/AobingJava/JavaFamily)：【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 * [3y-athena](https://github.com/ZhongFuCheng3y/athena)：Java后端知识图谱🔥 帮助Java初学者成长
+* [Javadoop](https://javadoop.com/)
+* [有赞技术团队](https://tech.youzan.com/)：[Java锁与线程的那些事](https://tech.youzan.com/javasuo-yu-xian-cheng-de-na-xie-shi/)
 
 ## 链接
 
@@ -175,8 +157,12 @@
 * [NoteBook](https://github.com/wugenqiang/NoteBook)：✍ 记录一路走来学习的计算机专业知识 ，力求构建 AI & CS & SE 知识体系
 * [CS-Books](https://gitee.com/ForthEspada/CS-Books)：超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
 *  [JavaFamily](https://gitee.com/sharehappy/JavaFamily)：互联网一线大厂Java 工程师面试+学习指南
+*  [JavaBooks](https://gitee.com/itwanger/JavaBooks)：📚Java程序员必读书单（超1000本PDF，附下载地址）包括但不限于Java、设计模式、计算机网络、操作系统、数据库、数据结构与算法、大数据、架构、面试等等，助力每一个Java程序员构建属于自己的知识体系。
+*  [Java-Interview-Advanced](https://gitee.com/shishan100/Java-Interview-Advanced)：中华石杉--互联网Java面试训练营
+*   [advanced-java](https://gitee.com/hahajava_admin/advanced-java)：同步 https://github.com/doocs/advanced-java 互联网 Java 工程师进阶知识完全扫盲
+*  [LearningNotes](https://gitee.com/moxi159753/LearningNotes)：欢迎关注我的 蘑菇博客项目 笔记主要涵盖：Java，Spring，SpringCloud，计算机网络，操作系统，数据结构，Vue等 如果笔记对您有帮助的话，欢迎star支持，谢谢~
 
-# 功能设计
+# 功能设计⭐
 
 ## 接口设计
 
@@ -188,47 +174,6 @@
 ## 导入功能
 
 * [B端后台导入功能-人人都是产品经理](https://www.woshipm.com/pd/5543901.html)
-
-# 后端
-
-**Java入门学习**
-
-* [01Java基础](/Java/01Java基础.md)
-* [02面向对象](/Java/02面向对象.md)
-* [03常用类](/Java/03常用类.md)
-* [04集合](/Java/04集合.md)
-* [05文件IO异常](/Java/05文件IO异常.md)
-* [06线程网络反射](/Java/06线程网络反射.md)
-* [07Java8新增功能](/Java/07Java8新增功能.md)
-
-**JavaWeb入门学习**
-
-* [01JavaScript](/JavaWeb/01JavaScript.md)
-* [02JDBC](/JavaWeb/02JDBC.md)
-* [03JavaWeb](/JavaWeb/03JavaWeb.md)
-* [04Mybatis和Spring](/JavaWeb/04Mybatis和Spring.md)
-
-**Spring、Mybatis、SpringMVC课堂笔记整合**
-
-* [01Spring](/SSM/Spring5课堂笔记.md)
-* [02Mybatis](/SSM/Mybatis课堂笔记.md)
-* [03SpringMVC](/SSM/SpringMVC课堂笔记.md)
-* [04SSM整合](/SSM/SSM整合.md)
-
-# 前端
-
-**Vue**
-
-* [01Vue课堂笔记](/vue/01Vue课堂笔记.md)
-* [02第一个vue程序](/vue/02第一个vue程序.md)
-* [03基础语法指令](/vue/03基础语法指令.md)
-* [04表单双绑、组件](/vue/04表单双绑、组件.md)
-* [05Axios异步通信](/vue/05Axios异步通信.md)
-* [06计算属性、内容分发、自定义事件](/vue/06计算属性、内容分发、自定义事件.md)
-* [07第一个vue-cli项目](/vue/07第一个vue-cli项目.md)
-* [08webpack使用](/vue/08webpack使用.md)
-* [09vue-router路由](/vue/09vue-router路由.md)
-* [10实战快速上手](/vue/10实战快速上手.md)
 
 # 转载收藏⭐
 
@@ -307,17 +252,85 @@
 * [程序员需知的 58 个网站](https://mp.weixin.qq.com/s/a1GQhRUjGZ65gfijwugoHg)
 * [阿里巴巴 34 个牛逼 GitHub 项目](https://mp.weixin.qq.com/s/sJk8kWuUoPAMkiRrZpG32w)
 
-# 面经
+# 应用软件
 
-* [大杂烩面经](/other/大杂烩面经.md)
+**镜像资源**
 
-# 开发日常
+* [搜狐开源镜像](http://mirrors.sohu.com/)
+* [阿里云开源镜像](http://mirrors.aliyun.com/)
+* [网易开源镜像](http://mirrors.163.com/)
+
+**官方链接**
+
+* [Java](https://www.oracle.com/cn/java/technologies/downloads/)
+* [MySQL](https://dev.mysql.com/downloads/mysql/5.7.html)
+* [Idea plugins](https://plugins.jetbrains.com/)
+* [Idea](https://www.jetbrains.com/idea/download/other.html)
+
+**辅助工具**
+
+* 内网穿透：[natapp](https://natapp.cn/) | [sunny](https://www.ngrok.cc/)
+* Redis：[AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager/releases)
+* Linux：[Tabby](https://github.com/Eugeny/tabby/releases)
+* 接口调用：[apifox](https://apifox.com/help/)
+
+* [Jrebel](https://jrebel.com.cn/#/)：激活链接
+
+* [VMware Workstation Pro](https://blog.csdn.net/wangpaiblog/article/details/112152218)：16安装链接
+
+* [Tampermonkey](https://www.tampermonkey.net/)：浏览器篡改猴
+
+* [插件用户脚本](https://greasyfork.org/zh-CN/scripts)：篡改猴脚本
+
+# 学习笔记
+
+## 其他
 
 * [开发日常](/other/开发日常.md)
 
-# 小技巧
-
 * [小技巧](/other/小技巧.md)
+* [大杂烩面经](/other/大杂烩面经.md)
+
+## 后端
+
+**Java**
+
+* [01Java基础](/Java/01Java基础.md)
+* [02面向对象](/Java/02面向对象.md)
+* [03常用类](/Java/03常用类.md)
+* [04集合](/Java/04集合.md)
+* [05文件IO异常](/Java/05文件IO异常.md)
+* [06线程网络反射](/Java/06线程网络反射.md)
+* [07Java8新增功能](/Java/07Java8新增功能.md)
+
+**JavaWeb**
+
+* [01JavaScript](/JavaWeb/01JavaScript.md)
+* [02JDBC](/JavaWeb/02JDBC.md)
+* [03JavaWeb](/JavaWeb/03JavaWeb.md)
+* [04Mybatis和Spring](/JavaWeb/04Mybatis和Spring.md)
+
+**Spring、MyBatis、SpringMVC**
+
+* [01Spring](/SSM/Spring5课堂笔记.md)
+* [02Mybatis](/SSM/Mybatis课堂笔记.md)
+* [03SpringMVC](/SSM/SpringMVC课堂笔记.md)
+* [04SSM整合](/SSM/SSM整合.md)
+
+## 前端
+
+**Vue**
+
+* [01Vue课堂笔记](/vue/01Vue课堂笔记.md)
+* [02第一个vue程序](/vue/02第一个vue程序.md)
+* [03基础语法指令](/vue/03基础语法指令.md)
+* [04表单双绑、组件](/vue/04表单双绑、组件.md)
+* [05Axios异步通信](/vue/05Axios异步通信.md)
+* [06计算属性、内容分发、自定义事件](/vue/06计算属性、内容分发、自定义事件.md)
+* [07第一个vue-cli项目](/vue/07第一个vue-cli项目.md)
+* [08webpack使用](/vue/08webpack使用.md)
+* [09vue-router路由](/vue/09vue-router路由.md)
+* [10实战快速上手](/vue/10实战快速上手.md)
 
 # 博客搭建
 
