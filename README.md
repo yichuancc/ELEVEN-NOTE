@@ -1,6 +1,6 @@
 # 前言
 
- <b>努力和遗憾，那个更痛苦</b>
+ [<b>努力和遗憾，那个更痛苦</b>](https://github.com/yichuancc/elevencc-labs)
 
 # 工具
 
@@ -14,7 +14,7 @@
 
 ## 开源网站
 
-[oschina](https://www.oschina.net/) | 
+[oschina](https://www.oschina.net/) | [github](https://github.com/) | 
 
 ## 开发工具
 
@@ -30,7 +30,7 @@
 
 ### 辅助工具
 
-* 内网穿透：[natapp](https://natapp.cn/)
+* 内网穿透：[natapp](https://natapp.cn/) | [sunny](https://www.ngrok.cc/)
 * Redis：[AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager/releases)
 * Linux：[Tabby](https://github.com/Eugeny/tabby/releases)
 
@@ -59,11 +59,13 @@
 * [FastBee物联网平台](https://wumei.live/doc/)：[gitee](https://gitee.com/kerwincui/fastbee)FastBee开源物联网平台，简单易用，更适合中小企业和个人学习使用。适用于智能家居、智慧办公、智慧社区、农业监测、水利监测、工业控制等。
 * [JetLinks 物联网基础平台](https://hanta.yuque.com/px7kg1/yfac2l)：JetLinks物联网平台提供海量设备连接上云，安全可靠的设备连接通信能力支持设备和云端双向消息通信。开放设备监控、远程升级、场景联动等核心能力，帮助物联网行业用户快速完成设备联网及行业应用集成。
 * [芋道管理系统](http://dashboard-vue3.yudao.iocoder.cn/login)：[开发手册](https://doc.iocoder.cn/)、[gitee](https://gitee.com/zhijiantianya/ruoyi-vue-pro)RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP 等功能。
-
 * [pig4cloud](https://pig4cloud.com/)：[gitee](https://gitee.com/log4j/pig)基于Spring Boot 3.3、 Spring Cloud 2023 & Alibaba、 SAS OAuth2 的微服务RBAC 权限管理系统。[开发手册](https://www.yuque.com/pig4cloud/pig/lceu0v)
 * [zlt2000](https://gitee.com/zlt2000) / [microservices-platform](https://gitee.com/zlt2000/microservices-platform)：基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构。并引入组件化的思想实现高内聚低耦合并且高度可配置化，适合学习和企业中使用。真正实现了基于RBAC、jwt和oauth2的无状态统一权限认证的解决方案，面向互联网设计同时适合B端和C端用户，支持CI/CD多环境部署，并提供应用管理方便第三方系统接入；同时还集合各种微服务治理功能和监控功能。模块包括:企业级的认证系统、开发平台、应用监控、慢sql监控、统一日志、单点登录、Redis分布式高速缓存、配置中心、分布式任务调度、接口文档、代码生成等等。[开发手册](https://www.kancloud.cn/zlt2000/microservices-platform/)，参考项目[open-capacity-platform](https://gitee.com/dromara/open-capacity-platform)
 * [snowy](https://snowy.xiaonuo.vip/login)：[gitee](https://gitee.com/xiaonuobase/snowy)国内首个国密前后分离快速开发平台💖，采用Vue3+AntDesignVue4+Vite5+SpringBoot3+Mp+HuTool+SaToken。集成国密加解密插件，在前后分离框架中，实现前后分离“密”不可分；同时实现国产化机型、中间件、数据库适配，是您的不二之选；最后官网提供工作流、多租户、多数据源、Vue3表单设计器等丰富插件灵活使用。
-* 
+* [RuoYi](https://doc.ruoyi.vip/ruoyi/)：**RuoYi**是一个后台管理系统，基于经典技术组合（Spring Boot、Apache Shiro、MyBatis、Thymeleaf）主要目的让开发者注重专注业务，降低技术难度，从而节省人力成本，缩短项目周期，提高软件安全质量。使用若依快速构建web应用程序
+* [Guns](https://www.javaguns.com/)：Guns是一个现代化的Java应用开发基础框架，基于主流技术Spring Boot2，Guns的核心理念是提高开发人员开发效率，降低企业信息化系统的开发成本，提高企业开发人员水平。
+* [PlayEdu开源培训系统](https://gitee.com/playeduxyz/playedu)：100%开源的企业培训系统，界面美观，操作简单，一键部署您的私有化培训平台。
+* [erupt](https://gitee.com/shinestmt/erupt)：🚀 低代码后台管理框架，对象视图模型 → 0️⃣ 零前端代码、零代码生成、零SQL、零API声明、零DTO / VO / BO 创建，表结构注释自动生成 🛡 内置严密安全策略，细颗粒权限隔离 ☁️ Cloud开发能力，不停机升级，轻依赖，集群内每个服务都可以轻松实现数据可视化 ️☁️
 
 ## 功能设计
 
@@ -75,46 +77,121 @@
 * [zyplayer-doc](https://doc.zyplayer.com/#/integrate/zyplayer-doc)：zyplayer-doc是一款适合企业和个人使用的WIKI知识库管理工具，提供在线化的知识库管理功能，专为私有化部署而设计，最大程度上保证企业或个人的数据安全，您可以完全以内网的方式来部署使用它。
 * [填鸭表单](https://www.tduckcloud.com/)：[gitee](https://gitee.com/TDuckApp/tduck-platform)一款免费的表单问卷系统；可快速创建问卷或业务表单，采用无代码理念支持开发自定义组件。采用SpringBoot+Vue+ElementUI技术栈，功能强大界面清新，支持一键部署。
 * [Java代码生成平台](https://java.bejson.com/generator/#)：[gitee](https://gitee.com/moshowgame/SpringBootCodeGenerator)基于SpringBoot2+Freemarker的代码生成器，用DDL SQL语句生成JPA/JdbcTemplate/Mybatis/BeetlSQL相关代码，支持mysql/oracle/pgsql三大数据库。
-* 
+* [screw](https://github.com/pingfangushi/screw)：简洁好用的数据库表结构文档生成器
+
+* [code-gen](https://gitee.com/durcframework/code-gen)：一款代码生成工具，可自定义模板生成不同的代码，支持MySQL、Oracle、SQL Server、PostgreSQL
 
 ## 开源工具库
 
 *  [WxJava](https://gitee.com/binary/weixin-java-tools)：微信开发 Java SDK，支持微信支付、开放平台、公众号、视频号、企业微信、小程序等的后端开发。
 * [hutool](https://www.hutool.cn/docs/#/)：Hutool是一个小而全的Java工具类库，通过静态方法封装，降低相关API的学习成本，提高工作效率，使Java拥有函数式语言般的优雅，让Java语言也可以“甜甜的”。
-* 
+* [easyexcel](https://easyexcel.opensource.alibaba.com/docs/current/)：快速、简洁、解决大文件内存溢出的java处理Excel工具
+* [Mybatis-plus](https://baomidou.com/)：MyBatis 最佳搭档，只做增强不做改变，为简化开发、提高效率而生。
+* [asyncTool](https://gitee.com/jd-platform-opensource/asyncTool)：解决任意的多线程并行、串行、阻塞、依赖、回调的并行框架，可以任意组合各线程的执行顺序，带全链路执行结果回调。多线程编排一站式解决方案。来自于京东主App后台。
 
 ## 开源工具
 
-* [dolphinscheduler](https://dolphinscheduler.apache.org/zh-cn)：Apache DolphinScheduler是一个分布式和可扩展的开源工作流协调平台，具有强大的DAG可视化界面。[参考文档](https://dolphinscheduler.apache.org/zh-cn/docs/3.1.7)
+* [dolphinscheduler](https://dolphinscheduler.apache.org/zh-cn)：Apache DolphinScheduler是一个分布式和可扩展的开源工作流协调平台，具有强大的DAG可视化界面。[参考文档](https://dolphinscheduler.apache.org/zh-cn/docs/3.1.7)、[使用手册](https://www.bookstack.cn/read/dolphinscheduler-3.1.0-zh/%E5%85%B3%E4%BA%8EApacheDolphinScheduler.md)
 * [activiti](https://www.activiti.org/documentation)：工作流引擎
 * [flowable](https://documentation.flowable.com/latest/develop/dbs/dmn-engine)：工作流引擎
-* [easyexcel](https://easyexcel.opensource.alibaba.com/docs/current/)：快速、简洁、解决大文件内存溢出的java处理Excel工具
 * [powerjob](http://www.powerjob.tech/)：新一代分布式任务调度与计算框架，支持CRON、API、固定频率、固定延迟等调度策略，提供工作流来编排任务解决依赖关系，使用简单，功能强大，文档齐全。
 *  [xxl-job](https://gitee.com/xuxueli0323/xxl-job)：一个分布式任务调度平台，其核心设计目标是开发迅速、学习简单、轻量级、易扩展。现已开放源代码并接入多家公司线上产品线，开箱即用。
 * [LiteFlow](https://liteflow.cc/)：轻量，快速，稳定可编排的组件式规则引擎
 * [Arthas](https://arthas.aliyun.com/)：Java 应用诊断利器
 * [finderWeb](http://www.finderweb.net/finderweb.html)：WEB 版的文件管理系统，tail、less、grep支持；支持超大日志文件；集群支持，支持管理多台机器上的文件；
 * [rclone](https://rclone.org/)：Rclone是一个用于管理云存储上的文件的命令行程序。它是云供应商web存储接口的一个功能丰富的替代方案。超过40种云存储产品支持rclone，包括S3对象存储、商业和消费者文件存储服务以及标准传输协议。
+* [EMQX](https://docs.emqx.com/zh/emqx/latest/)：EMQX 是一款[开源](https://github.com/emqx/emqx)的大规模分布式 MQTT 消息服务器，功能丰富，专为物联网和实时通信应用而设计。EMQX 5.0 单集群支持 MQTT 并发连接数高达 1 亿条，单服务器的传输与处理吞吐量可达每秒百万级 MQTT 消息，同时保证毫秒级的低时延。
+* [Sentinel](https://sentinelguard.io/zh-cn/index.html)：面向分布式、多语言异构化服务架构的流量治理组件
+* [kkFileView](https://kkfileview.keking.cn/zh-cn/index.html)：kkFileView为文件文档在线预览解决方案，该项目使用流行的spring boot搭建，易上手和部署，基本支持主流办公文档的在线预览，如doc,docx,xls,xlsx,ppt,pptx,pdf,txt,zip,rar,图片,视频,音频等等
+* [Nacos](https://nacos.io/)：一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台
+* [Dubbo](https://cn.dubbo.apache.org/zh-cn/overview/what/)：Dubbo 被设计为高度可扩展，用户可以方便的实现流量拦截、选址的各种定制逻辑。
+* [ShardingSphere](https://shardingsphere.apache.org/)：Apache ShardingSphere 是一款分布式的数据库生态系统， 可以将任意数据库转换为分布式数据库，并通过数据分片、弹性伸缩、加密等能力对原有数据库进行增强。
+* [RocketMQ](https://rocketmq.apache.org/)：RocketMQ 已经成为业内共识的金融级可靠业务消息首选方案，被广泛应用于互联网、大数据、移动互联网、物联网等领域的业务场景。
 
 ## 参考项目
 
 ### 前端
 
 * [shop-vite](https://vue-admin-beautiful.com/shop-vite/#/index)：前端样式设计
-* 
+* [three.js](https://threejs.org/docs/index.html#manual/zh/introduction/Creating-a-scene)：创建三维场景
+* [Avue](https://avuejs.com/)：前端搬砖神器,让数据驱动视图,更加贴合企业开发
+* [Mock.js](http://mockjs.com/)：生成随机数据，拦截 Ajax 请求
+* [Ant Design of Vue](https://www.antdv.com/docs/vue/introduce-cn) ：基于 Ant Design 和 Vue 的企业级 UI 组件。
+* [FormMaking](https://form.making.link/basic-version/#/zh-CN/)：表单设计器
+* [v-charts](https://v-charts.js.org/#/) ：在使用 echarts 生成图表时，经常需要做繁琐的数据类型转化、修改复杂的配置项，v-charts 的出现正是为了解决这个痛点。基于 Vue2.0 和 echarts 封装的 v-charts 图表组件，只需要统一提供一种对前后端都友好的数据格式设置简单的配置项，便可轻松生成常见的图表。
+* [Vuex](https://vuex.vuejs.org/zh/)： Vuex 是一个专为 Vue.js 应用程序开发的**状态管理模式 + 库**。它采用集中式存储管理应用的所有组件的状态，并以相应的规则保证状态以一种可预测的方式发生变化。
+* [MCChart](https://echarts.zhangmuchen.top/#/index)
+* [Echarts](https://echarts.apache.org/examples/zh/index.html)
+* [PPchart](https://www.ppchart.com/#/)
+* [Element](https://element.eleme.cn/#/zh-CN/component/installation)
+* [Uni-app](https://uniapp.dcloud.net.cn/component/)：是一个使用 [Vue.js](https://vuejs.org/) 开发所有前端应用的框架，开发者编写一套代码，可发布到iOS、Android、Web（响应式）、以及各种小程序（微信/支付宝/百度/头条/飞书/QQ/快手/钉钉/淘宝）、快应用等多个平台
+
+* [ES6 入门教程](https://es6.ruanyifeng.com/#README)：《ECMAScript 6 入门教程》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
+* [wangEditor](https://www.wangeditor.com/)：开源 Web 富文本编辑器，开箱即用，配置简单
+* [axios](http://www.axios-js.com/zh-cn/docs/index.html)：Axios 是一个基于 promise 的 HTTP 库，可以用在浏览器和 node.js 中。
+* [uView](https://www.uviewui.com/components/intro.html)：uView是uni-app生态专用的UI框架，uni-app 是一个使用 Vue.js 开发所有前端应用的框架，开发者编写一套代码， 可发布到iOS、Android、H5、以及各种小程序(微信/支付宝/百度/头条/QQ/钉钉)等多个平台(引言自uni-app网)。但目前除微信小程序，其它小程序平台的兼容可能存在一些问题，后续会针对这方面持续优化。
+* [Vxe Table](https://vxetable.cn/#/table/start/install)：配合 [Vxe UI](https://vxeui.com/) 组件库，更强更好用，支持表单可视化、列表可视化、流程可视化。
 
 ### 后端
 
 * [quarkus](https://github.com/quarkusio/quarkus)：Supersonic Subatomic Java.
 * [vert.x](https://github.com/eclipse-vertx/vert.x)：Vert.x is a tool-kit for building reactive applications on the JVM
+* [Debezium](https://debezium.io/documentation/reference/1.9/)：Debezium 是一组分布式服务，用于捕获数据库中的更改，以便您的应用程序可以查看这些更改并做出响应。Debezium 将每个数据库表中的所有行级更改记录在*更改事件流*中，应用程序只需读取这些流即可按发生顺序查看更改事件。
 
-* 
+### 测试
 
-# Java
+* [httpRunner](https://httprunner.com/)：接口测试 / 压力测试 / DevOps / 数字体验监测
+
+### 搭建博客
+
+* [VuePress](https://vuepress.vuejs.org/zh/)： Vue 驱动的静态网站生成器
+* [docsify](https://docsify.js.org/#/)：docsify 可以快速帮你生成文档网站。不同于 GitBook、Hexo 的地方是它不会生成静态的 `.html` 文件，所有转换工作都是在运行时。如果你想要开始使用它，只需要创建一个 `index.html` 就可以开始编写文档并直接[部署在 GitHub Pages](https://docsify.js.org/#/zh-cn/deploy)。
+* [hexo](https://hexo.io/zh-cn/)：快速、简洁且高效的博客框架。[主题风格](https://github.com/fluid-dev/hexo-theme-fluid)
+
+# 资料链接
+
+## 博客
+
+* [赵飞龙](https://blog.zflzqy.cn/)
+* [小傅哥 bugstack 虫洞栈](https://bugstack.cn/)：bugstack虫洞栈，程序员的编码指南
+* [JavaGuide](https://javaguide.cn/home.html)：Java学习&面试指南
+* [Java面试指北-cnk4](https://www.yuque.com/snailclimb/mf2z3k?)
+* [芋道源码-coke](https://www.iocoder.cn/)：纯源码解析博客，愿半生编码，如一生老友！
+* [美团技术团队](https://tech.meituan.com/)：[高性能队列](https://tech.meituan.com/2016/11/18/disruptor.html)
+* [廖雪峰](https://www.liaoxuefeng.com/)
+* [狂神说](https://www.kuangstudy.com/app)
+* [Road To Coding](https://www.r2coding.com/)：本站取名 **r2coding**，即 **Road To Coding**，意为「编程自学之路」，是自学编程以来所用资源和分享内容的大聚合。
+* [凤凰架构](https://icyfenix.cn/summary/)
+* [弟弟快看-756311](https://www.ddkk.com/)：弟弟快看，程序员编程资料站。756311
+* [小林coding](https://xiaolincoding.com/)：图解计算机网络、操作系统、计算机组成、数据库，让天下没有难懂的八股文！
+* [Java 全栈知识体系](https://www.pdai.tech/)
+* [敖丙JavaFamily](https://github.com/AobingJava/JavaFamily)：【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+* [3y-athena](https://github.com/ZhongFuCheng3y/athena)：Java后端知识图谱🔥 帮助Java初学者成长
+
+## 链接
+
+* [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)：GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目
+* [Github开源项目推荐](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)：收集整理 GitHub 上高质量、有趣的开源项目。
+* [NoteBook](https://github.com/wugenqiang/NoteBook)：✍ 记录一路走来学习的计算机专业知识 ，力求构建 AI & CS & SE 知识体系
+* [CS-Books](https://gitee.com/ForthEspada/CS-Books)：超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
+*  [JavaFamily](https://gitee.com/sharehappy/JavaFamily)：互联网一线大厂Java 工程师面试+学习指南
+
+# 功能设计
+
+## 接口设计
+
+* [对外接口请求设计](/design/接口设计/对外接口请求设计.md)
+* [三方接口调用方案设计](https://mp.weixin.qq.com/s/FQtkWhLa_d1nQfBHjuVd9g)
+* [crabc](https://gitee.com/linebyte/crabc)：Crabc是一款低代码API开发平台，企业级接口管理、接口开发和接口门户系统。深度整合SpringBoot和Mybatis特性实现动态数据源、动态SQL和标签，可视化编写SQL快速发布接口。
+* [请求参数进行SHA256/MD5加密](https://blog.csdn.net/likai0728/article/details/130688594)
+
+## 导入功能
+
+* [B端后台导入功能-人人都是产品经理](https://www.woshipm.com/pd/5543901.html)
+
+# 后端
 
 **Java入门学习**
-
-**笔记和记录**
 
 * [01Java基础](/Java/01Java基础.md)
 * [02面向对象](/Java/02面向对象.md)
@@ -124,7 +201,7 @@
 * [06线程网络反射](/Java/06线程网络反射.md)
 * [07Java8新增功能](/Java/07Java8新增功能.md)
 
-**JavaWeb入门学习笔记和记录**
+**JavaWeb入门学习**
 
 * [01JavaScript](/JavaWeb/01JavaScript.md)
 * [02JDBC](/JavaWeb/02JDBC.md)
@@ -152,21 +229,6 @@
 * [08webpack使用](/vue/08webpack使用.md)
 * [09vue-router路由](/vue/09vue-router路由.md)
 * [10实战快速上手](/vue/10实战快速上手.md)
-
-# 功能设计
-
-[elevencc-labs](https://github.com/yichuancc/elevencc-labs)
-
-## 接口设计
-
-* [对外接口请求设计](/design/接口设计/对外接口请求设计.md)
-* [三方接口调用方案设计](https://mp.weixin.qq.com/s/FQtkWhLa_d1nQfBHjuVd9g)
-* [crabc](https://gitee.com/linebyte/crabc)：Crabc是一款低代码API开发平台，企业级接口管理、接口开发和接口门户系统。深度整合SpringBoot和Mybatis特性实现动态数据源、动态SQL和标签，可视化编写SQL快速发布接口。
-* [请求参数进行SHA256/MD5加密](https://blog.csdn.net/likai0728/article/details/130688594)
-
-## 导入功能
-
-* [B端后台导入功能-人人都是产品经理](https://www.woshipm.com/pd/5543901.html)
 
 # 转载收藏⭐
 
