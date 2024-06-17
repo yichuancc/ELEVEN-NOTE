@@ -274,14 +274,11 @@
 * Redis：[AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager/releases)
 * Linux：[Tabby](https://github.com/Eugeny/tabby/releases)
 * 接口调用：[apifox](https://apifox.com/help/)
-
 * [Jrebel](https://jrebel.com.cn/#/)：激活链接
-
 * [VMware Workstation Pro](https://blog.csdn.net/wangpaiblog/article/details/112152218)：16安装链接
-
 * [Tampermonkey](https://www.tampermonkey.net/)：浏览器篡改猴
-
 * [插件用户脚本](https://greasyfork.org/zh-CN/scripts)：篡改猴脚本
+* [kkfileview安装说明](/soft/kkfileview.md)
 
 # 学习笔记
 
