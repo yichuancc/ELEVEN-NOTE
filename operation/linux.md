@@ -183,6 +183,10 @@ rm: remove regular file ‘install.sh’? y
 
 # 如果加上 -i 的选项就会主动询问喔，避免你删除到错误的档名！
 
+# 普通删除文件
+rm -rf 文件夹/目录
+
+
 # 尽量不要在服务器上使用 rm -rf /
 ```
 
@@ -348,15 +352,164 @@ kill指令就像是Windows系统中的任务管理->结束任务一样
 kill -9 PID   -9 :表示强迫进程立即停止
 ```
 
+# 常用操作
+
+## 防火墙
+
+### 端口
+
+1、查看已经开放的端口
+
+```shell
+firewall-cmd --list-ports 
+```
+
+2、开启端口
+
+```shell
+firewall-cmd --zone=public --add-port=80/tcp --permanent  
+ 
+ 命令含义:
+ –zone #作用域
+ –add-port=80/tcp #添加端口，格式为：端口/通讯协议
+ –permanent #永久生效，没有此参数重启后失效
+```
+
+3、重启
+
+```shell
+firewall-cmd --reload
+```
+
+4、关闭某个端口
+
+```shell
+sudo firewall-cmd --zone=public --remove-port=8080/tcp --permanent  
+sudo firewall-cmd --reload
+```
+
+### 状态
+
+>  **查看和关闭防火墙**CentOS 7.0默认使用的是firewall作为防火墙
+
+1、查看防火墙状态
+
+```
+firewall-cmd --state
+```
+
+2、停止firewall
+
+```
+systemctl stop firewalld.service
+```
+
+3、禁止firewall开机启动
+
+```shell
+systemctl disable firewalld.service
+```
+
+## 文件授权
+
+> 部署服务的时候，没有 .sh 的执行权限，用 chmod 授权。chmod是 Linux 中权限管理命令change the permissions mode of a file的缩写。
+
+### **所有 .sh 脚本添加执行权限**
+
+**chmod u+x \*.sh**，表示对当前目录下的file.sh文件的所有者增加可执行权限。
+
+u 代表所有者；x 代表执行权限；+ 表示增加权限。
+
+### **指定 .sh 脚本添加执行权限**
+
+**chmod u+x file1.sh**，表示对当前目录下的 file1.sh 文件的所有者增加可执行权限。
+
+u 代表所有者；x 代表执行权限；+ 表示增加权限。
+
+## 查看服务
+
+### 服务进程
+
+`ps -ef | grep tomcat` 是一个在 Unix 和 Linux 系统中常用的命令组合，用于查找与 `tomcat` 相关的进程。
+
+- `ps` 是一个显示当前进程的快照的工具。
+  - `-e`：选择所有进程。
+  - `-f`：全格式输出，包括完整的命令行。
+- `|`：管道符号，将前一个命令的输出作为后一个命令的输入。
+- `grep tomcat`：使用 `grep` 命令搜索包含“tomcat”的行。
+
+因此，`ps -ef | grep tomcat` 命令将显示所有与 `tomcat` 相关的进程及其详细信息。
+
+### 端口进程
+
+`netstat -apn | grep 2351` 是一个在 Unix 和 Linux 系统上常用的命令组合，用于查找与特定端口（在这个例子中是 2351）相关的网络连接或监听的服务。
+
+- `netstat` 是一个命令行工具，用于显示网络连接、路由表、接口统计等网络相关信息。
+  - `-a`：显示所有活动的网络连接以及服务器套接字。
+  - `-p`：显示哪个进程在使用套接字。
+  - `-n`：以数字形式显示地址和端口号，不进行 DNS 解析。
+- `|`：这是一个管道符号，用于将一个命令的输出作为另一个命令的输入。
+- `grep 2351`：这是一个文本搜索命令，用于搜索包含“2351”的行。
+
+因此，`netstat -apn | grep 2351` 命令将显示所有与端口 2351 相关的网络连接或监听的服务，并显示哪个进程正在使用这些套接字。
 
 
 
+# 常见问题
+
+## **脚本执行异常**
+
+异常信息：**/bin/sh^M: bad interpreter: No such file or directory**
+
+异常原因：是我们在 windows 下编写的脚本文件，直接放到 Linux 默认的是 dos 模式的文本，不被识别，需要处理下。
+
+解决办法：
+
+1、用 vim 打开脚本文件，在命令模式下输入：**set ff=unix**, 保存就可以了。
+
+2、在 windows下转换脚本格式，用 Notepad 改变文件格式即可。File-->Conversions-->DOS->UNIX。
+
+3、在 Linux 下新建一个 .sh 文件，然后复制粘贴过去也是可以的。
 
 
 
+# 软件安装
 
+## JDK安装
 
+在/usr/local目录下进行解压JDK压缩包
 
+```shell
+tar -zxvf jdk-8u321-linux-x64.tar.gz
+```
+
+root用户登录，在`/etc/profile`添加环境变量
+
+```shell
+#configuration java development enviroument
+export JAVA_HOME=/usr/local/jdk1.8.0_321
+export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar 
+export PATH=$JAVA_HOME/bin:$PATH:
+```
+
+让新增的环境变量生效
+
+```shell
+source /etc/profile
+```
+
+测试安装结果
+
+```shell
+java -version
+```
+
+## Tomcat日志切割
+
+> 参考链接
+>
+> * [cronolog分割tomcat的catalina.out文件](https://www.cnblogs.com/shidian/p/11396065.html)
+> * https://blog.csdn.net/Hi_Red_Beetle/article/details/103384587
 
 
 
