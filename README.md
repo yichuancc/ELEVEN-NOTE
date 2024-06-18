@@ -179,7 +179,6 @@
 ## 在线预览
 
 * [文档在线预览 总结篇](https://blog.csdn.net/q2qwert/article/details/130908294)
-* 
 
 # 转载收藏⭐
 
@@ -292,6 +291,11 @@
 * [开发日常](/other/开发日常.md)
 * [小技巧](/other/小技巧.md)
 * [大杂烩面经](/other/大杂烩面经.md)
+
+## 运维
+
+* [linux日常操作](/operation/linux.md)
+* [linux学习笔记系列](/operation/linux学习笔记.md)
 
 ## 后端
 
