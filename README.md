@@ -33,6 +33,8 @@
 * [Guns](https://www.javaguns.com/)：Guns是一个现代化的Java应用开发基础框架，基于主流技术Spring Boot2，Guns的核心理念是提高开发人员开发效率，降低企业信息化系统的开发成本，提高企业开发人员水平。
 * [PlayEdu开源培训系统](https://gitee.com/playeduxyz/playedu)：100%开源的企业培训系统，界面美观，操作简单，一键部署您的私有化培训平台。
 * [erupt](https://gitee.com/shinestmt/erupt)：🚀 低代码后台管理框架，对象视图模型 → 0️⃣ 零前端代码、零代码生成、零SQL、零API声明、零DTO / VO / BO 创建，表结构注释自动生成 🛡 内置严密安全策略，细颗粒权限隔离 ☁️ Cloud开发能力，不停机升级，轻依赖，集群内每个服务都可以轻松实现数据可视化 ️☁️
+* [`roncoo-education` 在线教育系统](https://github.com/roncoo/roncoo-education)：系统采用前后端分离模式，前台采用vue.js为核心框架，后台采用Spring Cloud为核心框架。系统目前主要功能有课程点播功能，支持多家视频云的接入，课程附件管理功能，支持多家存储云的接入，讲师管理功能，支持讲师入驻功能，可以帮助个人或者企业快速搭建一个轻量级的在线教育平台。
+*  [青蛙智慧农业平台](https://gitee.com/nealtsiao/frog-smart-agriculture)：青蛙智慧农业平台 三大功能板块：智慧农业设备接入，智慧农业农事任务管理，智慧农业大屏，智慧农业溯源。 设备；农业设备对接；支持BG28181接入摄像头）；支持mqtt、tcp、modbus、RS485协议； 功能： 权限管理、系统监控、物模型管理、产品管理、设备管理、设备告警、场景联动、视频监控、智慧农业农事管理、智慧农业产品溯源、智慧农大屏展示、安卓 / 苹果 / 微信小程序
 
 ## 开源功能
 
@@ -155,6 +157,7 @@
 
 * [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)：GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目
 * [Github开源项目推荐](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)：收集整理 GitHub 上高质量、有趣的开源项目。
+* [开源项目推荐](https://github.com/chenyl8848/great-open-source-project)：收集整理Github、Gitte上优秀的开源项目。[个人网站](https://chencoding.top:8090/#/README)
 * [NoteBook](https://github.com/wugenqiang/NoteBook)：✍ 记录一路走来学习的计算机专业知识 ，力求构建 AI & CS & SE 知识体系
 * [CS-Books](https://gitee.com/ForthEspada/CS-Books)：超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
 *  [JavaFamily](https://gitee.com/sharehappy/JavaFamily)：互联网一线大厂Java 工程师面试+学习指南
@@ -171,14 +174,26 @@
 * [三方接口调用方案设计](https://mp.weixin.qq.com/s/FQtkWhLa_d1nQfBHjuVd9g)
 * [crabc](https://gitee.com/linebyte/crabc)：Crabc是一款低代码API开发平台，企业级接口管理、接口开发和接口门户系统。深度整合SpringBoot和Mybatis特性实现动态数据源、动态SQL和标签，可视化编写SQL快速发布接口。
 * [请求参数进行SHA256/MD5加密](https://blog.csdn.net/likai0728/article/details/130688594)
+* [YesApi 强大的接口管理平台](https://mp.weixin.qq.com/s/V3oQEb84S7E_6BmjY3ByDA)：可参考一下设计方式和应用场景
 
 ## 导入功能
 
 * [B端后台导入功能-人人都是产品经理](https://www.woshipm.com/pd/5543901.html)
+* [读书笔记——批量导入](https://mp.weixin.qq.com/s/zvjEMZFVEfRbZ_re0xSt5Q)
 
 ## 在线预览
 
 * [文档在线预览 总结篇](https://blog.csdn.net/q2qwert/article/details/130908294)
+
+## 指标设计
+
+* [指标管理系统设计](https://mp.weixin.qq.com/s/qTk1IBzYyVCI_XdTOVHu2Q)
+* [医疗指标统一管理平台](https://mp.weixin.qq.com/s/WE-5utAwf98gkX6XTThgGQ)
+* [指标管理系统的从0到1，从规划到落地](https://mp.weixin.qq.com/s/uCiatvjbZdeO4qXrxdOBTQ)
+* [指标系统搭建](https://mp.weixin.qq.com/s/KPAe8ld7orX1UAClByPrWw)
+* [指标中台构建核心技术解析](https://mp.weixin.qq.com/s/nnkQkt3BKAXZh9xhnW3ogg)
+* [医院关键指标监控平台](https://mp.weixin.qq.com/s/n7DgWCdBBKLFqp90GyPBfw)
+* [数据中台：指标构建体系](https://mp.weixin.qq.com/s/1gzAyJiIGJGnVFMl8uOC5Q)
 
 # 转载收藏⭐
 
@@ -217,6 +232,9 @@
 * [MySQL 索引失效的场景](https://mp.weixin.qq.com/s/mwME3qukHBFul57WQLkOYg)
 * [分库分表的 21 条法则，基础原理](https://mp.weixin.qq.com/s/ijP6uGx5RHAw4DklcDzkaw)
 * [30万条数据批处理插入数据](https://mp.weixin.qq.com/s/j78PqoVTNHoMo_Rw6xPgHQ)
+* [8种专坑同事 SQL写法，性能降低](https://mp.weixin.qq.com/s/a7U2zZiZQTdmJ0KsHzfmUA)
+* [MySQL什么时候 锁表？如何防止锁表？](https://mp.weixin.qq.com/s/972ifwCLVycmcosQJ3oRjA)
+* [深刻理解 MySQL 索引](https://mp.weixin.qq.com/s/3s_74iHn33D0fcrZQwIPeg)
 
 ## 框架
 
@@ -230,26 +248,36 @@
 * [try catch的优雅使用](https://mp.weixin.qq.com/s/oPs0DO3cYnxwhNBFHMRHng)
 * [Spring/SpringBoot中的声明式事务和编程式事务](https://mp.weixin.qq.com/s/SB0nJVcmwLS3_gzGtQOf8Q)
 * [SpringBoot @Async：魔法和陷阱](https://mp.weixin.qq.com/s/9tkmj4TMezVF9bP5i2Tn_g)
+* [Spring最最核心的9大核心功能](https://mp.weixin.qq.com/s/eoLF7CRLWTx-tLvqh2CUkQ)
+* [SpringBoot 实现 RAS+AES 自动接口解密](https://mp.weixin.qq.com/s/pr7VbBKw9sgyua1aPeV2pg)
 
 **SpringBoot**
 
 * [SpringBoot自动装配原理，这一篇就够了](https://mp.weixin.qq.com/s/f6oED1hbiWat_0HOwxgfnA)
 * [3W 字的 Spring Boot 超详细总结](https://mp.weixin.qq.com/s/1TLvwEDxJb8mZs3AGTQ3DA)
 * [SpringBoot超大文件上传，实现秒传](https://mp.weixin.qq.com/s/9xO9ihzSaAwHV0Ze64Sfbg)
-* [一个 SpringBoot 项目能处理多少请求](https://mp.weixin.qq.com/s/a6IkTrroGo4KcQOJ6l6Dww)
+* [前端+SpringBoot+Minio实现上传凭证、分片上传、秒传和断点续传](https://mp.weixin.qq.com/s/m222J4UN1-quWXsKuvCCuA)
+* [一个 SpringBoot 项目能处理多少请求](https://mp.weixin.qq.com/s/a6IkTrroGo4KcQOJ6l6Dww)，[容器介绍](https://mp.weixin.qq.com/s/ytn3F_xGjlDDIBLYUB7MXQ)
 * [SpringBoot 实现 PDF 添加水印](https://mp.weixin.qq.com/s/2cDd7Fp4iWkifo3RjMBQqw)
+* [SpringBoot：一个注解就能帮你下载任意对象](https://mp.weixin.qq.com/s/bM65gVVxdHsT2tjvPzO-Mw)
+* [SpringBoot实现电子文件签字+合同系统](https://mp.weixin.qq.com/s/9ByYZ0hTGtLZhvzbTPd4Dw)
+* [SpringBoot常见的53个注解](https://mp.weixin.qq.com/s/PIMpU6jcj_MpIQl_M_j7nQ)
+* [多任务重试框架：Fast-Retry](https://mp.weixin.qq.com/s/QhywccxOlguvNEU5_xc3kw)
 
 **Mybatis**
 
 * [mybatis-plus用法](https://mp.weixin.qq.com/s/tAXK6a2tJdBRgg_B8yncAA)
 * [MyBatis-Plus 底层是如何处理](https://mp.weixin.qq.com/s/yjxV0GRiWPcvN2q-C5-VnA)
 
+**SpringColud**
+
+* [Springcloud核心组件的底层原理](https://mp.weixin.qq.com/s/lE50lXeqcPPaz58veEBJ8g)
+
 ## 系统设计
 
 * [如何保证数据库和缓存双写一致性](https://mp.weixin.qq.com/s/1uJmVb_E980NWn_sCzM6mA)
 * [陌溪的小破站，又㕛叒叕被打挂了](https://mp.weixin.qq.com/s/HZul5vmxjzPTsbI17drIxA)
 * [5 种 API 网关技术选型](https://mp.weixin.qq.com/s/CHLNigWhHXUociw1UFegMA)
-
 * [7种 实现web实时消息推送的方案](https://mp.weixin.qq.com/s/Zmoc8HY0TRVUDbERSeu2Mw)
 * [万字总结十种性能优化手段](https://mp.weixin.qq.com/s/4stify4WZwvk1Av7ktkFug)
 * [18种接口优化技巧](https://mp.weixin.qq.com/s/J14k0MPWZroIVhqrhEgHgQ)
@@ -257,6 +285,11 @@
 * [微服务数据库分库设计解决方案（跨库关联查询、分布式事务处理）](https://mp.weixin.qq.com/s/3AvFPiPznAapqc9Vsi2iUA)
 * [后台接口设计](https://mp.weixin.qq.com/s/laJZEJTgL3yALNtPG0dTwQ)
 * [系统架构设计](https://mp.weixin.qq.com/s/eDEjSdf93HE35ndVPpH13A)
+* [加密后的数据如何进行模糊查询](https://mp.weixin.qq.com/s/sPF0vnlAl5tSacHwZZpPlQ)
+* [美团移动端UI一致性解决方案](https://mp.weixin.qq.com/s/l4dzKaJlpZklQhj1uf1QLA)
+* [大厂咋做多系统数据同步方案的](https://mp.weixin.qq.com/s/OKJkvDX6kkrxmKv3p3reTA)
+* [常见的几种数据同步方案](https://mp.weixin.qq.com/s/dfmyNA-WaBTSrKI8GvrsbQ)
+* [聊聊如何防止别人恶意刷接口](https://mp.weixin.qq.com/s/9F1OuuGRQIf1iwIdsxh87A)
 
 ## 技术应用
 
@@ -270,40 +303,48 @@
 * [guava工具类](https://mp.weixin.qq.com/s/_YZxx0tgUoW0foymDGjTQg)
 * [本地缓存之王Caffeine](https://mp.weixin.qq.com/s/JBXtlYHGX3gfV9ZOfqR2nw)
 * [Spring Boot 内置工具类](https://mp.weixin.qq.com/s/CKA2wANH_3YiMSyEwKOG-g)
+* [Groovy 初学者指南](https://mp.weixin.qq.com/s/rU-vhCJpnwRgisppFHYY_A)
+* [一个简单的OCR识别引擎](https://mp.weixin.qq.com/s/5ORbLjcdmlvGZzRjiVXEoQ)
+* [手写一个RPC框架](https://mp.weixin.qq.com/s/C9LVfEmo-kQbUnKDt3KuGw)
 
-### 安全认证
+### 功能应用
 
 * [37000 字shiro](https://mp.weixin.qq.com/s/NmwqOM5rSDlmvs-Bi4P2Ag)
 
-### 消息队列
-
 * [Kafka、RabbitMQ、RocketMQ、ActiveMQ 综合对比](https://mp.weixin.qq.com/s/AgBOplDsVc2CL57WWv9eaw)
+* [2 万字 ES](https://mp.weixin.qq.com/s/m7TZ6ljpNtc1b6yAnrT5TA)
+* [ES六大顶级应用场景](https://mp.weixin.qq.com/s/cZw1ltk2Ar5UPeX1pJfhgA)
+* [图解 ElasticSearch 搜索原理](https://mp.weixin.qq.com/s/EQTuyFPUPI7q0jyWF6Lxlw)
+* [用Elasticsearch实现Word、PDF，TXT文件的全文内容检索](https://mp.weixin.qq.com/s/eXH6N8susc0kVemVnceygw)
 
 ### 工作流
 
 * [工作流引擎 Activiti](https://mp.weixin.qq.com/s/veu2W6NRUSX9HavNNph9pw)
 * [Springboot集成Camunda](https://mp.weixin.qq.com/s/uIfg5-OE0Qzb2dkSSGGLdg)
 
-### ES
-
-* [2 万字 ES](https://mp.weixin.qq.com/s/m7TZ6ljpNtc1b6yAnrT5TA)
-
-### RPC
-
-* [手写一个RPC框架](https://mp.weixin.qq.com/s/C9LVfEmo-kQbUnKDt3KuGw)
-
 ### Redis
 
 * [redis 十种数据类型及底层原理](https://mp.weixin.qq.com/s/x9yrYOmQqKPyjd4n4FhRfQ)
+* [Redis在项目中的17种使用场景](https://mp.weixin.qq.com/s/dBz7gm46mAOjObErtcUF4Q)
 
 ## 工具配置
 
 * [IntelliJ IDEA 最常用配置详细图解](https://mp.weixin.qq.com/s/NoX219wXcnVaocj_dttpow)
 * [IntelliJ IDEA 高效配置教程](https://mp.weixin.qq.com/s/S3YljmEXjHfyhcgj12ENwg)
 * [IDEA插件汇总](https://mp.weixin.qq.com/s/dVNleEGBr9h5RsZIgB-JVQ)
+*  [IDEA 中有什么让你相见恨晚的技巧](https://www.zhihu.com/question/300830746/answer/2836522148)
+* [30 款好用又好玩的 IDEA 插件](https://mp.weixin.qq.com/s/73-Sqk0hVpTeTWO_sWmzbQ)
 * [程序员需知的 58 个网站](https://mp.weixin.qq.com/s/a1GQhRUjGZ65gfijwugoHg)
 * [阿里巴巴 34 个牛逼 GitHub 项目](https://mp.weixin.qq.com/s/sJk8kWuUoPAMkiRrZpG32w)
 * [45 个 Git 操作场景](https://mp.weixin.qq.com/s/nP15K6-_etSwgpBf1HFJKA)
+
+## 运维
+
+* [2万字系统总结，帮你实现 Linux 命令自由](https://mp.weixin.qq.com/s/H6adAyvyM10Fh9RF3cV9tw)
+* [基于 Jenkins 搭建一套 CI/CD 系统](https://mp.weixin.qq.com/s/ZQ6woHimkhjzD3hpw7A7nA)
+* DevOps技术栈公众号
+* [Nginx七大应用场景](https://mp.weixin.qq.com/s/jfeQJU_buiN1MDzO9GzC5w)
+* [运维实用小脚本，登录即自动显示系统信息](https://mp.weixin.qq.com/s/6bNvXmcJtE05UmGbWsh76w)
 
 ## 其他
 
@@ -348,7 +389,10 @@
 
 * [linux日常操作](/operation/linux.md)
 * [linux学习笔记系列](/operation/linux学习笔记.md)
-* [2万字系统总结，帮你实现 Linux 命令自由](https://mp.weixin.qq.com/s/H6adAyvyM10Fh9RF3cV9tw)
+* [Linux基础命令和工具详解](https://mp.weixin.qq.com/s/XWBIU0oRe59X_diOt_S6ow)
+* [Linux 网络命令大全](https://mp.weixin.qq.com/s/wk_CTSMiKqyGr1IK1AvzcA)
+* [Linux挂载磁盘操作](https://mp.weixin.qq.com/s/X7rHIGSpUtkZuNtrxsgflA)
+* [常用Linux命令详细总结](https://mp.weixin.qq.com/s/q76X6473LUZKmr2DAoYaVQ)
 
 ## 后端
 
