@@ -33,7 +33,7 @@
 * [Guns](https://www.javaguns.com/)：Guns是一个现代化的Java应用开发基础框架，基于主流技术Spring Boot2，Guns的核心理念是提高开发人员开发效率，降低企业信息化系统的开发成本，提高企业开发人员水平。
 * [PlayEdu开源培训系统](https://gitee.com/playeduxyz/playedu)：100%开源的企业培训系统，界面美观，操作简单，一键部署您的私有化培训平台。
 * [erupt](https://gitee.com/shinestmt/erupt)：🚀 低代码后台管理框架，对象视图模型 → 0️⃣ 零前端代码、零代码生成、零SQL、零API声明、零DTO / VO / BO 创建，表结构注释自动生成 🛡 内置严密安全策略，细颗粒权限隔离 ☁️ Cloud开发能力，不停机升级，轻依赖，集群内每个服务都可以轻松实现数据可视化 ️☁️
-* [`roncoo-education` 在线教育系统](https://github.com/roncoo/roncoo-education)：系统采用前后端分离模式，前台采用vue.js为核心框架，后台采用Spring Cloud为核心框架。系统目前主要功能有课程点播功能，支持多家视频云的接入，课程附件管理功能，支持多家存储云的接入，讲师管理功能，支持讲师入驻功能，可以帮助个人或者企业快速搭建一个轻量级的在线教育平台。
+* [roncoo-education在线教育系统](https://github.com/roncoo/roncoo-education)：系统采用前后端分离模式，前台采用vue.js为核心框架，后台采用Spring Cloud为核心框架。系统目前主要功能有课程点播功能，支持多家视频云的接入，课程附件管理功能，支持多家存储云的接入，讲师管理功能，支持讲师入驻功能，可以帮助个人或者企业快速搭建一个轻量级的在线教育平台。
 *  [青蛙智慧农业平台](https://gitee.com/nealtsiao/frog-smart-agriculture)：青蛙智慧农业平台 三大功能板块：智慧农业设备接入，智慧农业农事任务管理，智慧农业大屏，智慧农业溯源。 设备；农业设备对接；支持BG28181接入摄像头）；支持mqtt、tcp、modbus、RS485协议； 功能： 权限管理、系统监控、物模型管理、产品管理、设备管理、设备告警、场景联动、视频监控、智慧农业农事管理、智慧农业产品溯源、智慧农大屏展示、安卓 / 苹果 / 微信小程序
 
 ## 开源功能
@@ -119,7 +119,7 @@
 ### 博客
 
 * [VuePress](https://vuepress.vuejs.org/zh/)： Vue 驱动的静态网站生成器
-* [docsify](https://docsify.js.org/#/)：docsify 可以快速帮你生成文档网站。不同于 GitBook、Hexo 的地方是它不会生成静态的 `.html` 文件，所有转换工作都是在运行时。如果你想要开始使用它，只需要创建一个 `index.html` 就可以开始编写文档并直接[部署在 GitHub Pages](https://docsify.js.org/#/zh-cn/deploy)。
+* [docsify](https://docsify.js.org/#/)：docsify 可以快速帮你生成文档网站。不同于 GitBook、Hexo 的地方是它不会生成静态的 **.html** 文件，所有转换工作都是在运行时。如果你想要开始使用它，只需要创建一个 **index.html** 就可以开始编写文档并直接[部署在 GitHub Pages](https://docsify.js.org/#/zh-cn/deploy)。
 * [hexo](https://hexo.io/zh-cn/)：快速、简洁且高效的博客框架。[主题风格](https://github.com/fluid-dev/hexo-theme-fluid)
 
 # 资料链接⭐
