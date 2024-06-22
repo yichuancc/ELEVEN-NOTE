@@ -422,9 +422,14 @@
 # 博客搭建
 
 * [Typora快速入门](/ProjectDocs/Typora快速入门.md)
+
 * [Docsify使用指南](/ProjectDocs/Docsify使用指南.md)
+
 * [Docsify部署教程](/ProjectDocs/Docsify部署教程.md)
+
 * [Docsify定制化](/ProjectDocs/Docsify定制化.md)
+
+* [Docsify配置说明文档](https://mp.weixin.qq.com/s/iV1CI0tsSVoSwT3HmB3puw)
 
 * 项目运行命令，访问地址 [http://localhost:3000](http://localhost:3000/) 
 
