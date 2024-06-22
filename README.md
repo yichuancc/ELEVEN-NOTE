@@ -385,6 +385,10 @@
 * [小技巧](/other/小技巧.md)
 * [大杂烩面经](/other/大杂烩面经.md)
 
+## 规范
+
+* [Java开发规范](/operation/JavaCrule.md)
+
 ## 运维
 
 * [linux日常操作](/operation/linux.md)
@@ -394,46 +398,26 @@
 * [Linux挂载磁盘操作](https://mp.weixin.qq.com/s/X7rHIGSpUtkZuNtrxsgflA)
 * [常用Linux命令详细总结](https://mp.weixin.qq.com/s/q76X6473LUZKmr2DAoYaVQ)
 
-## 后端
+## 入门
 
 **Java**
 
-* [01Java基础](/Java/01Java基础.md)
-* [02面向对象](/Java/02面向对象.md)
-* [03常用类](/Java/03常用类.md)
-* [04集合](/Java/04集合.md)
-* [05文件IO异常](/Java/05文件IO异常.md)
-* [06线程网络反射](/Java/06线程网络反射.md)
-* [07Java8新增功能](/Java/07Java8新增功能.md)
+| [01Java基础](/Java/01Java基础.md)     | [02面向对象](/Java/02面向对象.md)         | [03常用类](/Java/03常用类.md)               | [04集合](/Java/04集合.md) |
+| ------------------------------------- | ----------------------------------------- | ------------------------------------------- | ------------------------- |
+| [05文件IO异常](/Java/05文件IO异常.md) | [06线程网络反射](/Java/06线程网络反射.md) | [07Java8新增功能](/Java/07Java8新增功能.md) |                           |
 
 **JavaWeb**
 
-* [01JavaScript](/JavaWeb/01JavaScript.md)
-* [02JDBC](/JavaWeb/02JDBC.md)
-* [03JavaWeb](/JavaWeb/03JavaWeb.md)
-* [04Mybatis和Spring](/JavaWeb/04Mybatis和Spring.md)
-
-**Spring、MyBatis、SpringMVC**
-
-* [01Spring](/SSM/Spring5课堂笔记.md)
-* [02Mybatis](/SSM/Mybatis课堂笔记.md)
-* [03SpringMVC](/SSM/SpringMVC课堂笔记.md)
-* [04SSM整合](/SSM/SSM整合.md)
-
-## 前端
+| [01JavaScript](/JavaWeb/01JavaScript.md) | [02JDBC](/JavaWeb/02JDBC.md)         | [03JavaWeb](/JavaWeb/03JavaWeb.md)       | [04Mybatis和Spring](/JavaWeb/04Mybatis和Spring.md) |
+| ---------------------------------------- | ------------------------------------ | ---------------------------------------- | -------------------------------------------------- |
+| [01Spring](/SSM/Spring5课堂笔记.md)      | [02Mybatis](/SSM/Mybatis课堂笔记.md) | [03SpringMVC](/SSM/SpringMVC课堂笔记.md) | [04SSM整合](/SSM/SSM整合.md)                       |
 
 **Vue**
 
-* [01Vue课堂笔记](/vue/01Vue课堂笔记.md)
-* [02第一个vue程序](/vue/02第一个vue程序.md)
-* [03基础语法指令](/vue/03基础语法指令.md)
-* [04表单双绑、组件](/vue/04表单双绑、组件.md)
-* [05Axios异步通信](/vue/05Axios异步通信.md)
-* [06计算属性、内容分发、自定义事件](/vue/06计算属性、内容分发、自定义事件.md)
-* [07第一个vue-cli项目](/vue/07第一个vue-cli项目.md)
-* [08webpack使用](/vue/08webpack使用.md)
-* [09vue-router路由](/vue/09vue-router路由.md)
-* [10实战快速上手](/vue/10实战快速上手.md)
+| [01Vue课堂笔记](/vue/01Vue课堂笔记.md)       | [02第一个vue程序](/vue/02第一个vue程序.md)                   | [03基础语法指令](/vue/03基础语法指令.md)           | [04表单双绑、组件](/vue/04表单双绑、组件.md) |
+| -------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------- | -------------------------------------------- |
+| [05Axios异步通信](/vue/05Axios异步通信.md)   | [06计算属性、内容分发、自定义事件](/vue/06计算属性、内容分发、自定义事件.md) | [07第一个vue-cli项目](/vue/07第一个vue-cli项目.md) | [08webpack使用](/vue/08webpack使用.md)       |
+| [09vue-router路由](/vue/09vue-router路由.md) | [10实战快速上手](/vue/10实战快速上手.md)                     |                                                    |                                              |
 
 # 博客搭建
 
