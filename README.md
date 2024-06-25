@@ -14,7 +14,7 @@
 
 **设计**
 
-[Processon](https://www.processon.com) | [xmind](https://xmind.cn/) | [即时设计](https://js.design/) | [Axure](https://www.axure.com.cn/78629) | [墨刀](https://modao.cc/) | [draw.io](https://app.diagrams.net/)
+[Processon](https://www.processon.com) | [xmind](https://xmind.cn/) | [即时设计](https://js.design/) | [Axure](https://www.axure.com.cn/78629) | [墨刀](https://modao.cc/) | [draw.io](https://app.diagrams.net/) | [pdmaas](https://www.pdmaas.cn/home)
 
 # 开源项目⭐
 
@@ -263,6 +263,7 @@
 * [SpringBoot实现电子文件签字+合同系统](https://mp.weixin.qq.com/s/9ByYZ0hTGtLZhvzbTPd4Dw)
 * [SpringBoot常见的53个注解](https://mp.weixin.qq.com/s/PIMpU6jcj_MpIQl_M_j7nQ)
 * [多任务重试框架：Fast-Retry](https://mp.weixin.qq.com/s/QhywccxOlguvNEU5_xc3kw)
+* [SpringBoot实现接口防抖的几种方案，杜绝重复提交](https://mp.weixin.qq.com/s/hcfvuqOWwYm_7JxJI7hkfw)
 
 **Mybatis**
 
