@@ -34,7 +34,7 @@
 * [PlayEdu开源培训系统](https://gitee.com/playeduxyz/playedu)：100%开源的企业培训系统，界面美观，操作简单，一键部署您的私有化培训平台。
 * [erupt](https://gitee.com/shinestmt/erupt)：🚀 低代码后台管理框架，对象视图模型 → 0️⃣ 零前端代码、零代码生成、零SQL、零API声明、零DTO / VO / BO 创建，表结构注释自动生成 🛡 内置严密安全策略，细颗粒权限隔离 ☁️ Cloud开发能力，不停机升级，轻依赖，集群内每个服务都可以轻松实现数据可视化 ️☁️
 * [roncoo-education在线教育系统](https://github.com/roncoo/roncoo-education)：系统采用前后端分离模式，前台采用vue.js为核心框架，后台采用Spring Cloud为核心框架。系统目前主要功能有课程点播功能，支持多家视频云的接入，课程附件管理功能，支持多家存储云的接入，讲师管理功能，支持讲师入驻功能，可以帮助个人或者企业快速搭建一个轻量级的在线教育平台。
-*  [青蛙智慧农业平台](https://gitee.com/nealtsiao/frog-smart-agriculture)：青蛙智慧农业平台 三大功能板块：智慧农业设备接入，智慧农业农事任务管理，智慧农业大屏，智慧农业溯源。 设备；农业设备对接；支持BG28181接入摄像头）；支持mqtt、tcp、modbus、RS485协议； 功能： 权限管理、系统监控、物模型管理、产品管理、设备管理、设备告警、场景联动、视频监控、智慧农业农事管理、智慧农业产品溯源、智慧农大屏展示、安卓 / 苹果 / 微信小程序
+* [青蛙智慧农业平台](https://gitee.com/nealtsiao/frog-smart-agriculture)：青蛙智慧农业平台 三大功能板块：智慧农业设备接入，智慧农业农事任务管理，智慧农业大屏，智慧农业溯源。 设备；农业设备对接；支持BG28181接入摄像头）；支持mqtt、tcp、modbus、RS485协议； 功能： 权限管理、系统监控、物模型管理、产品管理、设备管理、设备告警、场景联动、视频监控、智慧农业农事管理、智慧农业产品溯源、智慧农大屏展示、安卓 / 苹果 / 微信小程序
 
 ## 开源功能
 
@@ -54,7 +54,7 @@
 
 ## 开源工具库
 
-*  [WxJava](https://gitee.com/binary/weixin-java-tools)：微信开发 Java SDK，支持微信支付、开放平台、公众号、视频号、企业微信、小程序等的后端开发。
+* [WxJava](https://gitee.com/binary/weixin-java-tools)：微信开发 Java SDK，支持微信支付、开放平台、公众号、视频号、企业微信、小程序等的后端开发。
 * [hutool](https://www.hutool.cn/docs/#/)：Hutool是一个小而全的Java工具类库，通过静态方法封装，降低相关API的学习成本，提高工作效率，使Java拥有函数式语言般的优雅，让Java语言也可以“甜甜的”。
 * [easyexcel](https://easyexcel.opensource.alibaba.com/docs/current/)：快速、简洁、解决大文件内存溢出的java处理Excel工具
 * [Mybatis-plus](https://baomidou.com/)：MyBatis 最佳搭档，只做增强不做改变，为简化开发、提高效率而生。
@@ -66,7 +66,7 @@
 * [activiti](https://www.activiti.org/documentation)：工作流引擎
 * [flowable](https://documentation.flowable.com/latest/develop/dbs/dmn-engine)：工作流引擎
 * [powerjob](http://www.powerjob.tech/)：新一代分布式任务调度与计算框架，支持CRON、API、固定频率、固定延迟等调度策略，提供工作流来编排任务解决依赖关系，使用简单，功能强大，文档齐全。
-*  [xxl-job](https://gitee.com/xuxueli0323/xxl-job)：一个分布式任务调度平台，其核心设计目标是开发迅速、学习简单、轻量级、易扩展。现已开放源代码并接入多家公司线上产品线，开箱即用。
+* [xxl-job](https://gitee.com/xuxueli0323/xxl-job)：一个分布式任务调度平台，其核心设计目标是开发迅速、学习简单、轻量级、易扩展。现已开放源代码并接入多家公司线上产品线，开箱即用。
 * [LiteFlow](https://liteflow.cc/)：轻量，快速，稳定可编排的组件式规则引擎
 * [Arthas](https://arthas.aliyun.com/)：Java 应用诊断利器
 * [finderWeb](http://www.finderweb.net/finderweb.html)：WEB 版的文件管理系统，tail、less、grep支持；支持超大日志文件；集群支持，支持管理多台机器上的文件；
@@ -97,7 +97,6 @@
 * [PPchart](https://www.ppchart.com/#/)
 * [Element](https://element.eleme.cn/#/zh-CN/component/installation)
 * [Uni-app](https://uniapp.dcloud.net.cn/component/)：是一个使用 [Vue.js](https://vuejs.org/) 开发所有前端应用的框架，开发者编写一套代码，可发布到iOS、Android、Web（响应式）、以及各种小程序（微信/支付宝/百度/头条/飞书/QQ/快手/钉钉/淘宝）、快应用等多个平台
-
 * [ES6 入门教程](https://es6.ruanyifeng.com/#README)：《ECMAScript 6 入门教程》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
 * [wangEditor](https://www.wangeditor.com/)：开源 Web 富文本编辑器，开箱即用，配置简单
 * [axios](http://www.axios-js.com/zh-cn/docs/index.html)：Axios 是一个基于 promise 的 HTTP 库，可以用在浏览器和 node.js 中。
@@ -160,11 +159,11 @@
 * [开源项目推荐](https://github.com/chenyl8848/great-open-source-project)：收集整理Github、Gitte上优秀的开源项目。[个人网站](https://chencoding.top:8090/#/README)
 * [NoteBook](https://github.com/wugenqiang/NoteBook)：✍ 记录一路走来学习的计算机专业知识 ，力求构建 AI & CS & SE 知识体系
 * [CS-Books](https://gitee.com/ForthEspada/CS-Books)：超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
-*  [JavaFamily](https://gitee.com/sharehappy/JavaFamily)：互联网一线大厂Java 工程师面试+学习指南
-*  [JavaBooks](https://gitee.com/itwanger/JavaBooks)：📚Java程序员必读书单（超1000本PDF，附下载地址）包括但不限于Java、设计模式、计算机网络、操作系统、数据库、数据结构与算法、大数据、架构、面试等等，助力每一个Java程序员构建属于自己的知识体系。
-*  [Java-Interview-Advanced](https://gitee.com/shishan100/Java-Interview-Advanced)：中华石杉--互联网Java面试训练营
-*   [advanced-java](https://gitee.com/hahajava_admin/advanced-java)：同步 https://github.com/doocs/advanced-java 互联网 Java 工程师进阶知识完全扫盲
-*  [LearningNotes](https://gitee.com/moxi159753/LearningNotes)：欢迎关注我的 蘑菇博客项目 笔记主要涵盖：Java，Spring，SpringCloud，计算机网络，操作系统，数据结构，Vue等 如果笔记对您有帮助的话，欢迎star支持，谢谢~
+* [JavaFamily](https://gitee.com/sharehappy/JavaFamily)：互联网一线大厂Java 工程师面试+学习指南
+* [JavaBooks](https://gitee.com/itwanger/JavaBooks)：📚Java程序员必读书单（超1000本PDF，附下载地址）包括但不限于Java、设计模式、计算机网络、操作系统、数据库、数据结构与算法、大数据、架构、面试等等，助力每一个Java程序员构建属于自己的知识体系。
+* [Java-Interview-Advanced](https://gitee.com/shishan100/Java-Interview-Advanced)：中华石杉--互联网Java面试训练营
+* [advanced-java](https://gitee.com/hahajava_admin/advanced-java)：同步 https://github.com/doocs/advanced-java 互联网 Java 工程师进阶知识完全扫盲
+* [LearningNotes](https://gitee.com/moxi159753/LearningNotes)：欢迎关注我的 蘑菇博客项目 笔记主要涵盖：Java，Spring，SpringCloud，计算机网络，操作系统，数据结构，Vue等 如果笔记对您有帮助的话，欢迎star支持，谢谢~
 
 # 功能设计⭐
 
@@ -209,13 +208,11 @@
 **正则表达式**
 
 * [最全常用正则表达式大全](https://zyc88.blog.csdn.net/article/details/98479629)
-
 * [在线正则表达式测试](http://tool.oschina.net/regex/)
 
 ## 并发
 
 * [并发编程的10个坑](https://mp.weixin.qq.com/s/lJidWmVNLlXpWLeGLXWMxQ)
-
 * [并发编程的12种业务场景](https://mp.weixin.qq.com/s/DkpW6eIuMchxht1rl5QzUQ)
 * [京东零售 / asyncTool](https://gitee.com/jd-platform-opensource/asyncTool)
 * [8 种异步实现方式归纳总结](https://mp.weixin.qq.com/s/dXqlmv82FDnYKNa9dFCX0g)
@@ -224,7 +221,7 @@
 
 * [Mysql完结汇总篇18W字](https://mp.weixin.qq.com/s/i8SHizPrBMQ2GIhQP7ozRw)
 * [一千行 MySQL 详细学习笔记](https://mp.weixin.qq.com/s/OuExJeM53o5AVp_E04RPBQ)
-*  [sharding-jdbc 关于读写分离的操作](https://shardingsphere.apache.org/document/legacy/3.x/document/cn/manual/sharding-jdbc/usage/read-write-splitting/)
+* [sharding-jdbc 关于读写分离的操作](https://shardingsphere.apache.org/document/legacy/3.x/document/cn/manual/sharding-jdbc/usage/read-write-splitting/)
 * [《芋道 Spring Boot 分库分表入门》](https://mp.weixin.qq.com/s/A2MYOFT7SP-7kGOon8qJaw)
 * [MySQL夺命15问](https://mp.weixin.qq.com/s/BXJybsrD5zy6oiZ31LtTpw)
 * [SQL优化思路+经典案例分析](https://mp.weixin.qq.com/s/z-LajVLaYBWWlpvJVeSOsA)
@@ -291,6 +288,7 @@
 * [大厂咋做多系统数据同步方案的](https://mp.weixin.qq.com/s/OKJkvDX6kkrxmKv3p3reTA)
 * [常见的几种数据同步方案](https://mp.weixin.qq.com/s/dfmyNA-WaBTSrKI8GvrsbQ)
 * [聊聊如何防止别人恶意刷接口](https://mp.weixin.qq.com/s/9F1OuuGRQIf1iwIdsxh87A)
+* [熔断、隔离、重试、降级、超时、限流，一文帮你顺理高可用架构流量治理](https://mp.weixin.qq.com/s/bVQDHn41uhmUd6X0j4_a-g)
 
 ## 技术应用
 
@@ -311,7 +309,6 @@
 ### 功能应用
 
 * [37000 字shiro](https://mp.weixin.qq.com/s/NmwqOM5rSDlmvs-Bi4P2Ag)
-
 * [Kafka、RabbitMQ、RocketMQ、ActiveMQ 综合对比](https://mp.weixin.qq.com/s/AgBOplDsVc2CL57WWv9eaw)
 * [2 万字 ES](https://mp.weixin.qq.com/s/m7TZ6ljpNtc1b6yAnrT5TA)
 * [ES六大顶级应用场景](https://mp.weixin.qq.com/s/cZw1ltk2Ar5UPeX1pJfhgA)
@@ -333,7 +330,7 @@
 * [IntelliJ IDEA 最常用配置详细图解](https://mp.weixin.qq.com/s/NoX219wXcnVaocj_dttpow)
 * [IntelliJ IDEA 高效配置教程](https://mp.weixin.qq.com/s/S3YljmEXjHfyhcgj12ENwg)
 * [IDEA插件汇总](https://mp.weixin.qq.com/s/dVNleEGBr9h5RsZIgB-JVQ)
-*  [IDEA 中有什么让你相见恨晚的技巧](https://www.zhihu.com/question/300830746/answer/2836522148)
+* [IDEA 中有什么让你相见恨晚的技巧](https://www.zhihu.com/question/300830746/answer/2836522148)
 * [30 款好用又好玩的 IDEA 插件](https://mp.weixin.qq.com/s/73-Sqk0hVpTeTWO_sWmzbQ)
 * [程序员需知的 58 个网站](https://mp.weixin.qq.com/s/a1GQhRUjGZ65gfijwugoHg)
 * [阿里巴巴 34 个牛逼 GitHub 项目](https://mp.weixin.qq.com/s/sJk8kWuUoPAMkiRrZpG32w)
@@ -423,17 +420,11 @@
 # 博客搭建
 
 * [Typora快速入门](/ProjectDocs/Typora快速入门.md)
-
 * [Docsify使用指南](/ProjectDocs/Docsify使用指南.md)
-
 * [Docsify部署教程](/ProjectDocs/Docsify部署教程.md)
-
 * [Docsify定制化](/ProjectDocs/Docsify定制化.md)
-
 * [Docsify配置说明文档](https://mp.weixin.qq.com/s/iV1CI0tsSVoSwT3HmB3puw)
-
-* 项目运行命令，访问地址 [http://localhost:3000](http://localhost:3000/) 
-
+* 项目运行命令，访问地址 [http://localhost:3000](http://localhost:3000/)
   ```shell
   #项目目录下
   docsify serve 

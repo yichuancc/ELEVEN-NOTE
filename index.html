@@ -11,9 +11,11 @@
     <link rel="icon" href="/favicon.ico" type="image/x-icon"/>
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
     <!-- 默认主题 -->
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+<!--    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">-->
+    <link rel="stylesheet" href="common/css/vue.css">
     <!--gitalk评论-->
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+<!--    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">-->
+    <link rel="stylesheet" href="common/css/gitalk.css">
     <style>
         /* 标题栏固定 */
         .app-nav {
@@ -165,29 +167,38 @@
     }
 </script>
 <!-- docsify的js依赖 -->
-<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+<!--<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>-->
+<script src="common/js/docsify.min.js"></script>
 <!-- emoji表情支持 -->
-<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+<!--<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>-->
+<script src="common/js/emoji.min.js"></script>
 <!-- 图片放大缩小支持 -->
-<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+<!--<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>-->
+<script src="common/js/zoom-image.min.js"></script>
 <!-- 搜索功能支持 -->
-<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+<!--<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>-->
+<script src="common/js/search.min.js"></script>
 <!--在所有的代码块上添加一个简单的Click to copy按钮来允许用户从你的文档中轻易地复制代码-->
-<script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+<!--<script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>-->
+<script src="common/js/docsify-copy-code.min.js"></script>
 <!--分页导航插件-->
-<script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+<!--<script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>-->
+<script src="common/js/docsify-pagination.min.js"></script>
 <!--字数统计插件-->
-<script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+<!--<script src="//unpkg.com/docsify-count/dist/countable.js"></script>-->
+<script src="common/js/countable.js"></script>
 
 <!--侧边栏折叠只显示一层-->
 <!--<script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>-->
 
 <!--谷歌统计 - Google Analytics-->
-<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
+<!--<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>-->
+<script src="common/js/ga.min.js"></script>
 <!-- 访问量统计 -->
 <script async src="common/js/busuanzi.pure.mini.js"></script>
 <!--代码块样式优化 https://cdn.jsdelivr.net/npm/prismjs@1/components/-->
-<script src="//cdn.jsdelivr.net/npm/prismjs@1.28.0/components/prism-powershell.js"></script>
+<!--<script src="//cdn.jsdelivr.net/npm/prismjs@1.28.0/components/prism-powershell.js"></script>-->
+<script src="common/js/prism-powershell.js"></script>
 <script src="common/js/prism-cpp.js"></script>
 <script src="common/js/prism-css.js"></script>
 <script src="common/js/prism-docker.js"></script>
@@ -207,6 +218,8 @@
 <script src="common/js/prism-yaml.js"></script>
 <script src="common/js/prism-go.js"></script>
 <script src="common/js/prism-matlab.js"></script>
+<script src="common/js/prism-shell-session.min.js"></script>
+<script src="common/js/prism-properties.min.js"></script>
 
 <!-- 回到顶部功能 -->
 <script src="common/js/jquery.js"></script>
@@ -262,8 +275,9 @@
 <!--</script>-->
 
 <!--gitalk评论-->
-<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+<!--<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>-->
+<script src="common/js/gitalk.min.js"></script>
+<script src="common/js/gittalk/gitalk.min.js"></script>
 <script>
     const gitalk = new Gitalk({
         clientID: '95ba2a7da60d1f4a2d81',
