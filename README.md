@@ -383,9 +383,10 @@
 * [小技巧](/other/小技巧.md)
 * [大杂烩面经](/other/大杂烩面经.md)
 
-## 规范
+## 开发
 
 * [Java开发规范](/operation/JavaCrule.md)
+* [常用代码](/operation/often_code.md)
 
 ## 运维
 
