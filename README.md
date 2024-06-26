@@ -344,6 +344,10 @@
 * [Nginx七大应用场景](https://mp.weixin.qq.com/s/jfeQJU_buiN1MDzO9GzC5w)
 * [运维实用小脚本，登录即自动显示系统信息](https://mp.weixin.qq.com/s/6bNvXmcJtE05UmGbWsh76w)
 
+## 排查笔记
+
+* [花了2个钟，终于搞清楚 AOP 未生效的原因了](https://mp.weixin.qq.com/s/MTqVmgpmvavOp0NSCSmsHA)
+
 ## 其他
 
 * [唠唠嗑！大学那会接私活](https://mp.weixin.qq.com/s/7FlCzf67VdleHF6g7Cbphw)
@@ -385,8 +389,9 @@
 
 ## 开发
 
-* [Java开发规范](/operation/JavaCrule.md)
 * [常用代码](/operation/often_code.md)
+* [Java开发规范](/operation/JavaCrule.md)
+* [Git笔记](/operation/git.md)
 
 ## 运维
 
