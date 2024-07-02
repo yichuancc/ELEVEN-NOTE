@@ -151,6 +151,7 @@
 * [3y-athena](https://github.com/ZhongFuCheng3y/athena)：Java后端知识图谱🔥 帮助Java初学者成长
 * [Javadoop](https://javadoop.com/)
 * [有赞技术团队](https://tech.youzan.com/)：[Java锁与线程的那些事](https://tech.youzan.com/javasuo-yu-xian-cheng-de-na-xie-shi/)
+* [死磕Java](https://www.skjava.com/)
 
 ## 链接
 
@@ -216,6 +217,10 @@
 * [并发编程的12种业务场景](https://mp.weixin.qq.com/s/DkpW6eIuMchxht1rl5QzUQ)
 * [京东零售 / asyncTool](https://gitee.com/jd-platform-opensource/asyncTool)
 * [8 种异步实现方式归纳总结](https://mp.weixin.qq.com/s/dXqlmv82FDnYKNa9dFCX0g)
+* [掌握 CompletableFuture 的异步魔法](https://mp.weixin.qq.com/s/UVycTRHLbbvwoihWsdvwuw)、[CompletableFuture使用详解](https://www.cnblogs.com/zwh0910/p/17483514.html)
+* [CompletableFuture使用思维导图](https://blog.csdn.net/weixin_37799575/article/details/126526283)、[日常举例](https://blog.csdn.net/weixin_46217160/article/details/124945250)
+* [美团-CompletableFuture原理与实践-外卖商家端API的异步化](https://tech.meituan.com/2022/05/12/principles-and-practices-of-completablefuture.html)
+* [AQS源码condition、CountDownLatch、CyclicBarrier、中断、共享等](https://blog.csdn.net/hancoder/article/details/120954315)
 
 ## 数据库
 
@@ -232,6 +237,7 @@
 * [8种专坑同事 SQL写法，性能降低](https://mp.weixin.qq.com/s/a7U2zZiZQTdmJ0KsHzfmUA)
 * [MySQL什么时候 锁表？如何防止锁表？](https://mp.weixin.qq.com/s/972ifwCLVycmcosQJ3oRjA)
 * [深刻理解 MySQL 索引](https://mp.weixin.qq.com/s/3s_74iHn33D0fcrZQwIPeg)
+* [不引入ES，利用MySQL实现模糊匹配](https://juejin.cn/post/7340574992256466953)、[MySQL模糊搜索的几种方式](https://zhuanlan.zhihu.com/p/343198664)
 
 ## 框架
 
@@ -250,7 +256,7 @@
 
 **SpringBoot**
 
-* [SpringBoot自动装配原理，这一篇就够了](https://mp.weixin.qq.com/s/f6oED1hbiWat_0HOwxgfnA)
+* [SpringBoot自动装配原理，这一篇就够了](https://mp.weixin.qq.com/s/f6oED1hbiWat_0HOwxgfnA)、[CSDN](https://blog.csdn.net/weixin_43826242/article/details/106005176)
 * [3W 字的 Spring Boot 超详细总结](https://mp.weixin.qq.com/s/1TLvwEDxJb8mZs3AGTQ3DA)
 * [SpringBoot超大文件上传，实现秒传](https://mp.weixin.qq.com/s/9xO9ihzSaAwHV0Ze64Sfbg)
 * [前端+SpringBoot+Minio实现上传凭证、分片上传、秒传和断点续传](https://mp.weixin.qq.com/s/m222J4UN1-quWXsKuvCCuA)
@@ -343,6 +349,7 @@
 * DevOps技术栈公众号
 * [Nginx七大应用场景](https://mp.weixin.qq.com/s/jfeQJU_buiN1MDzO9GzC5w)
 * [运维实用小脚本，登录即自动显示系统信息](https://mp.weixin.qq.com/s/6bNvXmcJtE05UmGbWsh76w)
+* [Jenkins一键部署前端项目](https://mp.weixin.qq.com/s/xSfRJd6We1uiUE_KGOCjiA)
 
 ## 排查笔记
 
