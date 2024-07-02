@@ -355,9 +355,15 @@
 
 * [花了2个钟，终于搞清楚 AOP 未生效的原因了](https://mp.weixin.qq.com/s/MTqVmgpmvavOp0NSCSmsHA)
 
+## 面试题
+
+* [后端技术学些啥](https://mp.weixin.qq.com/s/co6ZiALBCUHxc-8SpcKxPw)
+* [肝了一个月的后端知识点长啥样](https://mp.weixin.qq.com/s/gBr3UfC1HRcw4U-ZMmtRaQ)
+
 ## 其他
 
 * [唠唠嗑！大学那会接私活](https://mp.weixin.qq.com/s/7FlCzf67VdleHF6g7Cbphw)
+* [阿里云的这群疯子](https://developer.aliyun.com/article/653511)、[浅黑科技](https://www.qianhei.net/yinmiwangshi/59.html)
 
 # 应用软件
 
