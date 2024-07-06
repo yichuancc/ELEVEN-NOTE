@@ -152,6 +152,7 @@
 * [Javadoop](https://javadoop.com/)
 * [有赞技术团队](https://tech.youzan.com/)：[Java锁与线程的那些事](https://tech.youzan.com/javasuo-yu-xian-cheng-de-na-xie-shi/)
 * [死磕Java](https://www.skjava.com/)
+* [RudeCrab](https://www.zhihu.com/column/c_1326844401931624448)：[一文带你搞定Spring Security + JWT实现前后端分离下的认证授权]()
 
 ## 链接
 
@@ -194,6 +195,11 @@
 * [指标中台构建核心技术解析](https://mp.weixin.qq.com/s/nnkQkt3BKAXZh9xhnW3ogg)
 * [医院关键指标监控平台](https://mp.weixin.qq.com/s/n7DgWCdBBKLFqp90GyPBfw)
 * [数据中台：指标构建体系](https://mp.weixin.qq.com/s/1gzAyJiIGJGnVFMl8uOC5Q)
+
+## 权限设计
+
+* [万字长文：深入浅出RBAC权限设计](https://mp.weixin.qq.com/s/0jQy_gpTxRkmTBuqsxX87w)
+* [一文带你搞定Spring Security + JWT实现前后端分离下的认证授权](https://zhuanlan.zhihu.com/p/342755411)、[GitHub](https://github.com/RudeCrab/rude-java)
 
 # 转载收藏⭐
 
@@ -285,7 +291,6 @@
 * [7种 实现web实时消息推送的方案](https://mp.weixin.qq.com/s/Zmoc8HY0TRVUDbERSeu2Mw)
 * [万字总结十种性能优化手段](https://mp.weixin.qq.com/s/4stify4WZwvk1Av7ktkFug)
 * [18种接口优化技巧](https://mp.weixin.qq.com/s/J14k0MPWZroIVhqrhEgHgQ)
-* [万字长文：深入浅出RBAC权限设计](https://mp.weixin.qq.com/s/0jQy_gpTxRkmTBuqsxX87w)
 * [微服务数据库分库设计解决方案（跨库关联查询、分布式事务处理）](https://mp.weixin.qq.com/s/3AvFPiPznAapqc9Vsi2iUA)
 * [后台接口设计](https://mp.weixin.qq.com/s/laJZEJTgL3yALNtPG0dTwQ)
 * [系统架构设计](https://mp.weixin.qq.com/s/eDEjSdf93HE35ndVPpH13A)
