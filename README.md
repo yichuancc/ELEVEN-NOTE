@@ -244,6 +244,7 @@
 * [MySQL什么时候 锁表？如何防止锁表？](https://mp.weixin.qq.com/s/972ifwCLVycmcosQJ3oRjA)
 * [深刻理解 MySQL 索引](https://mp.weixin.qq.com/s/3s_74iHn33D0fcrZQwIPeg)
 * [不引入ES，利用MySQL实现模糊匹配](https://juejin.cn/post/7340574992256466953)、[MySQL模糊搜索的几种方式](https://zhuanlan.zhihu.com/p/343198664)
+* [MySQL的执行计划](/operation/mysql的执行计划.md)
 
 ## 框架
 
