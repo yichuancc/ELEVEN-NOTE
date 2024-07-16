@@ -35,6 +35,8 @@
 * [erupt](https://gitee.com/shinestmt/erupt)：🚀 低代码后台管理框架，对象视图模型 → 0️⃣ 零前端代码、零代码生成、零SQL、零API声明、零DTO / VO / BO 创建，表结构注释自动生成 🛡 内置严密安全策略，细颗粒权限隔离 ☁️ Cloud开发能力，不停机升级，轻依赖，集群内每个服务都可以轻松实现数据可视化 ️☁️
 * [roncoo-education在线教育系统](https://github.com/roncoo/roncoo-education)：系统采用前后端分离模式，前台采用vue.js为核心框架，后台采用Spring Cloud为核心框架。系统目前主要功能有课程点播功能，支持多家视频云的接入，课程附件管理功能，支持多家存储云的接入，讲师管理功能，支持讲师入驻功能，可以帮助个人或者企业快速搭建一个轻量级的在线教育平台。
 * [青蛙智慧农业平台](https://gitee.com/nealtsiao/frog-smart-agriculture)：青蛙智慧农业平台 三大功能板块：智慧农业设备接入，智慧农业农事任务管理，智慧农业大屏，智慧农业溯源。 设备；农业设备对接；支持BG28181接入摄像头）；支持mqtt、tcp、modbus、RS485协议； 功能： 权限管理、系统监控、物模型管理、产品管理、设备管理、设备告警、场景联动、视频监控、智慧农业农事管理、智慧农业产品溯源、智慧农大屏展示、安卓 / 苹果 / 微信小程序
+* [JeeWMS](https://gitee.com/erzhongxmu/JEEWMS)：JeeWMS基于JAVA的智能仓储管理系统（支持3PL（三方物流）和厂内物流），包含PDA端和WEB端，功能涵盖WMS（仓库管理系统），OMS（订单管理系统），BMS（财务管理系统），TMS（运输管理系统），成功应用于多家国内知名大客户，客户群体：冷链，干仓，快消品，汽车主机厂和配件厂等行业。（计费配置、仓库配置、基础配置、计费管理、基础资料、仓库管理、月台管理、进货管理、出货管理、退货管理、库内管理、盘点管理、库存查询、PDA功能、分析报表、分析图表、域验证。）
+* **[简捷报](https://gitee.com/kinroy/brief-report)**：简捷报是一款基于Spring Boot开发的企业工单流转和工作日志管理系统，旨在优化企业内部的工作流程和任务管理。
 
 ## 开源功能
 
@@ -245,6 +247,8 @@
 * [深刻理解 MySQL 索引](https://mp.weixin.qq.com/s/3s_74iHn33D0fcrZQwIPeg)
 * [不引入ES，利用MySQL实现模糊匹配](https://juejin.cn/post/7340574992256466953)、[MySQL模糊搜索的几种方式](https://zhuanlan.zhihu.com/p/343198664)
 * [MySQL的执行计划](/operation/mysql的执行计划.md)
+* [Mysql学习宝典一](https://blog.csdn.net/aaa31203/article/details/119762354)、[二](https://blog.csdn.net/aaa31203/article/details/119782884)、[三](https://blog.csdn.net/aaa31203/article/details/119782884)、[四](https://blog.csdn.net/aaa31203/article/details/119807466)、[五](https://blog.csdn.net/aaa31203/article/details/119823527)、[六](https://blog.csdn.net/aaa31203/article/details/120199432)
+* [MySQL最大连接数调整](https://www.cnblogs.com/phpper/p/9570792.html)、[排序和分页](https://blog.csdn.net/u011709538/article/details/134466049)
 
 ## 框架
 
@@ -260,6 +264,7 @@
 * [SpringBoot @Async：魔法和陷阱](https://mp.weixin.qq.com/s/9tkmj4TMezVF9bP5i2Tn_g)
 * [Spring最最核心的9大核心功能](https://mp.weixin.qq.com/s/eoLF7CRLWTx-tLvqh2CUkQ)
 * [SpringBoot 实现 RAS+AES 自动接口解密](https://mp.weixin.qq.com/s/pr7VbBKw9sgyua1aPeV2pg)
+* [Spring注解驱动](https://www.yuque.com/mo_ming/gl7b70/cbf3s0)、[二](https://liayun.blog.csdn.net/article/details/115053350)
 
 **SpringBoot**
 
