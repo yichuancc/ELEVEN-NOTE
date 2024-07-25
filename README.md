@@ -37,6 +37,7 @@
 * [青蛙智慧农业平台](https://gitee.com/nealtsiao/frog-smart-agriculture)：青蛙智慧农业平台 三大功能板块：智慧农业设备接入，智慧农业农事任务管理，智慧农业大屏，智慧农业溯源。 设备；农业设备对接；支持BG28181接入摄像头）；支持mqtt、tcp、modbus、RS485协议； 功能： 权限管理、系统监控、物模型管理、产品管理、设备管理、设备告警、场景联动、视频监控、智慧农业农事管理、智慧农业产品溯源、智慧农大屏展示、安卓 / 苹果 / 微信小程序
 * [JeeWMS](https://gitee.com/erzhongxmu/JEEWMS)：JeeWMS基于JAVA的智能仓储管理系统（支持3PL（三方物流）和厂内物流），包含PDA端和WEB端，功能涵盖WMS（仓库管理系统），OMS（订单管理系统），BMS（财务管理系统），TMS（运输管理系统），成功应用于多家国内知名大客户，客户群体：冷链，干仓，快消品，汽车主机厂和配件厂等行业。（计费配置、仓库配置、基础配置、计费管理、基础资料、仓库管理、月台管理、进货管理、出货管理、退货管理、库内管理、盘点管理、库存查询、PDA功能、分析报表、分析图表、域验证。）
 * **[简捷报](https://gitee.com/kinroy/brief-report)**：简捷报是一款基于Spring Boot开发的企业工单流转和工作日志管理系统，旨在优化企业内部的工作流程和任务管理。
+* [dromara](https://gitee.com/dromara)：为往圣继绝学的开源作者们，是一个由顶尖开源项目维护者自发组织的开源社区，让每一位开源爱好者，体会到开源的快乐。
 
 ## 开源功能
 
@@ -81,6 +82,7 @@
 * [ShardingSphere](https://shardingsphere.apache.org/)：Apache ShardingSphere 是一款分布式的数据库生态系统， 可以将任意数据库转换为分布式数据库，并通过数据分片、弹性伸缩、加密等能力对原有数据库进行增强。
 * [RocketMQ](https://rocketmq.apache.org/)：RocketMQ 已经成为业内共识的金融级可靠业务消息首选方案，被广泛应用于互联网、大数据、移动互联网、物联网等领域的业务场景。
 * [onlyoffice](https://www.onlyoffice.com/)：ONLYOFFICE是一个开源的在线协作办公套件，结合了文档、电子表格、演示文稿和表单的编辑器。
+* [Jpom项目运维](https://jpom.top/)：简而轻的低侵入式在线构建、自动部署、日常运维、项目运维监控软件。
 
 ## other链接
 
@@ -336,6 +338,7 @@
 
 * [工作流引擎 Activiti](https://mp.weixin.qq.com/s/veu2W6NRUSX9HavNNph9pw)
 * [Springboot集成Camunda](https://mp.weixin.qq.com/s/uIfg5-OE0Qzb2dkSSGGLdg)
+* [工作流参考功能](/operation/工作流.md)
 
 ### Redis
 
