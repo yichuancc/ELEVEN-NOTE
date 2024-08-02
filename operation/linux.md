@@ -373,6 +373,18 @@ firewall-cmd --zone=public --add-port=80/tcp --permanent
  –zone #作用域
  –add-port=80/tcp #添加端口，格式为：端口/通讯协议
  –permanent #永久生效，没有此参数重启后失效
+ 
+ 
+firewall-cmd --permanent --add-rich-rule="rule family="ipv4" source address="172.16.0.230" port protocol="tcp" port="8877" accept"
+
+该规则的作用是允许来自IP地址为172.16.0.230的主机通过TCP协议访问端口号为8877的服务。 
+1. 使用firewall-cmd命令调用防火墙管理工具。 
+2. 使用--permanent参数表示将修改应用到永久配置中。 
+3. 使用--add-rich-rule参数添加一个富规则。 
+4. 富规则的内容是一个字符串，其中包含了规则的详细配置。 
+5. 在规则中指定了IP地址为172.16.0.230。 
+6. 指定了协议为TCP。 
+7. 指定了端口号为
 ```
 
 3、重启
@@ -426,6 +438,25 @@ u 代表所有者；x 代表执行权限；+ 表示增加权限。
 
 u 代表所有者；x 代表执行权限；+ 表示增加权限。
 
+### 其他权限
+
+1、当对应的文件夹没有操作权限是，用**sudo su root** 命令切换到root用户权限操作
+
+2、创建文件夹后，对文件夹授权，例如
+
+```shell
+chown -R szxy:szxy /data/szxy
+
+将/data/szxy目录下的所有文件和子目录的所有者和所属组都设置为szxy。
+
+1. chown是一个命令，用于修改文件或目录的所有者和所属组。
+2. -R选项表示递归地修改目录下的所有文件和子目录。
+3. szxy:szxy表示将所有者和所属组都设置为szxy。
+4. /data/szxy是要修改的目录路径。
+```
+
+
+
 ## 查看服务
 
 ### 服务进程
@@ -453,6 +484,128 @@ netstat -apn | grep 2351 是一个在 Unix 和 Linux 系统上常用的命令组
 
 因此，netstat -apn | grep 2351 命令将显示所有与端口 2351 相关的网络连接或监听的服务，并显示哪个进程正在使用这些套接字。
 
+## 服务启动
+
+### Java服务
+
+```shell
+-  nohup : nohup命令用于在后台运行进程，即使终端关闭也不会中断该进程。 
+-  java : 启动Java虚拟机。 
+-  -Xms1024m : 设置Java虚拟机的初始堆内存大小为1024m。 
+-  -Xmx1024m : 设置Java虚拟机的最大堆内存大小为1024m。 
+-  -jar resource-center-server.jar : 运行名为resource-center-server.jar的Java可执行文件。 
+-  --spring.profiles.active="prod" : 设置Spring应用程序的活动配置文件为prod。 
+-  2>log_err : 将标准错误输出重定向到tt_err文件。 
+-  1>log_out : 将标准输出重定向到tt_log文件。 
+-  & : 在后台运行进程，允许终端继续输入其他命令。 
+
+nohup java -Xms1024m -Xmx1024m -jar resource-center-server.jar --spring.profiles.active="prod" 2>tt_err 1>tt_log &
+
+
+# jar名称，不带.jar后缀
+SERVICE_NAME=resource-center-server
+# 打包的jar包名称
+APP_NAME=$SERVICE_NAME\.jar
+# 服务进程PID文件
+PID=service.pid
+
+# 使用说明，用来提示输入参数
+usage() {
+    echo "输入对应参数，执行脚本 ./service.sh [start|stop|restart|status]"
+    exit 1
+}
+
+# 检查程序是否在运行
+is_exist() {
+    pid=`ps -ef|grep $APP_NAME|grep -v grep|awk '{print $2}' `
+    # 如果不存在返回1，存在返回0
+    if [ -z "${pid}" ]; then
+        return 1
+    else
+        return 0
+    fi
+}
+
+# 启动方法
+start() {
+    is_exist
+    if [ $? -eq "0" ]; then
+        echo "${SERVICE_NAME} 应用已启动，进程ID为 ${pid} ."
+    else
+        nohup java -Xms1024m -Xmx1024m -jar $APP_NAME --spring.profiles.active="prod" 2>log_err 1>log_out &
+        echo $! > $PID
+        echo "${SERVICE_NAME} 应用启动中，进程ID为 $! "
+    fi
+}
+
+# 停止方法
+stop() {
+    is_exist
+    if [ $? -eq "0" ]; then
+        echo "${SERVICE_NAME} 应用运行中，开始 kill ${pid}"
+        kill $pid
+        rm -rf $PID
+        # 等待最大 60 秒，直到关闭完成。
+        for ((i = 0; i < 60; i++))
+            do  
+                sleep 1
+                pid=`ps -ef|grep $APP_NAME|grep -v grep|awk '{print $2}' `
+                #  -n 用于判断字符串是否非空
+                if [ -n "$pid" ]; then
+                    echo -e ".\c"
+                else
+                    echo "${SERVICE_NAME} 应用已停止..."
+                    break
+                fi
+        done
+        # 如果正常关闭失败，那么进行强制 kill -9 进行关闭
+        if [ -n "$pid" ]; then
+            echo "${SERVICE_NAME}停止失败，强制 kill -9 ${pid}"
+            kill -9 $pid
+        fi
+    else
+        echo "${SERVICE_NAME} 应用未运行..."
+    fi
+}
+
+# 输出运行状态
+status() {
+    is_exist
+    if [ $? -eq "0" ]; then
+        echo "${SERVICE_NAME} 应用正在运行，进程ID为 ${pid}"
+    else
+        echo "${SERVICE_NAME} 应用未运行..."
+    fi
+}
+
+# 重启
+restart() {
+    stop
+    start
+}
+
+# 根据输入参数，选择执行对应方法，不输入则执行使用说明
+case "$1" in
+    "start")
+        start
+        ;;
+    "stop")
+        stop
+        ;;
+    "status")
+        status
+        ;;
+    "restart")
+        restart
+        ;;
+    *)
+        usage
+        ;;
+esac
+```
+
+
+
 # 常见问题
 
 ## **脚本执行异常**
@@ -468,8 +621,6 @@ netstat -apn | grep 2351 是一个在 Unix 和 Linux 系统上常用的命令组
 2、在 windows下转换脚本格式，用 Notepad 改变文件格式即可。File-->Conversions-->DOS->UNIX。
 
 3、在 Linux 下新建一个 .sh 文件，然后复制粘贴过去也是可以的。
-
-
 
 # 软件安装
 

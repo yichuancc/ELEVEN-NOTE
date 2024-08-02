@@ -38,6 +38,8 @@
 * [JeeWMS](https://gitee.com/erzhongxmu/JEEWMS)：JeeWMS基于JAVA的智能仓储管理系统（支持3PL（三方物流）和厂内物流），包含PDA端和WEB端，功能涵盖WMS（仓库管理系统），OMS（订单管理系统），BMS（财务管理系统），TMS（运输管理系统），成功应用于多家国内知名大客户，客户群体：冷链，干仓，快消品，汽车主机厂和配件厂等行业。（计费配置、仓库配置、基础配置、计费管理、基础资料、仓库管理、月台管理、进货管理、出货管理、退货管理、库内管理、盘点管理、库存查询、PDA功能、分析报表、分析图表、域验证。）
 * **[简捷报](https://gitee.com/kinroy/brief-report)**：简捷报是一款基于Spring Boot开发的企业工单流转和工作日志管理系统，旨在优化企业内部的工作流程和任务管理。
 * [dromara](https://gitee.com/dromara)：为往圣继绝学的开源作者们，是一个由顶尖开源项目维护者自发组织的开源社区，让每一位开源爱好者，体会到开源的快乐。
+* [勾股OA办公系统](https://gitee.com/gouguopen/office)：勾股OA是一款实用的企业办公系统。集成了系统设置、人事管理、消息管理、审批管理、日常办公、客户管理、合同管理、项目管理、财务管理等模块。
+* [orange-form](https://gitee.com/orangeform)/[orange-admin](https://gitee.com/orangeform/orange-admin)：橙单中台化低代码生成器。可完整支持多应用、多租户、多渠道、工作流 (Flowable & Activiti)、在线表单、自定义数据同步、自定义Job、多表关联、跨服务多表关联、框架技术栈自由组合等。
 
 ## 开源功能
 
