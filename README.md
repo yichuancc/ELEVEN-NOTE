@@ -119,7 +119,7 @@
 ### 测试
 
 * [httpRunner](https://httprunner.com/)：接口测试 / 压力测试 / DevOps / 数字体验监测
-* [Fiddler抓包工具](https://www.cnblogs.com/yyhh/p/5140852.html)
+* [Fiddler抓包工具](https://www.cnblogs.com/yyhh/p/5140852.html)、[Fiddler对手机App应用进行抓包](https://mp.weixin.qq.com/s/-kWODNFg3uH6xWw6ZI7XpA)
 
 ### 博客
 
