@@ -6,15 +6,23 @@
 
 **在线工具**
 
-[Json.con](https://www.json.cn/) | [蛙蛙工具](https://www.iamwawa.cn/) | [在线工具](https://tool.lu/) | [bejson](https://www.bejson.com/)
+[Json.con](https://www.json.cn/) | [蛙蛙工具](https://www.iamwawa.cn/) | [在线工具](https://tool.lu/) | [bejson](https://www.bejson.com/) | [阿里巴巴矢量图标](https://www.iconfont.cn/)
 
 **开源网站**
 
-[oschina](https://www.oschina.net/) | [github](https://github.com/) | [gitee](https://gitee.com/explore)
+[oschina](https://www.oschina.net/) | [github](https://github.com/) | [gitee](https://gitee.com/explore) |[HelloGitHub](https://hellogithub.com/) |[GitHub趋势](https://github.com/trending) |[GitHub开源项目](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) | [Github 、Gitee 优秀的开源项目](https://github.com/chenyl8848/great-open-source-project)
 
 **设计**
 
 [Processon](https://www.processon.com) | [xmind](https://xmind.cn/) | [即时设计](https://js.design/) | [Axure](https://www.axure.com.cn/78629) | [墨刀](https://modao.cc/) | [draw.io](https://app.diagrams.net/) | [pdmaas](https://www.pdmaas.cn/home)
+
+**导航网站**
+
+[旁门左道PPT](https://www.goto-mars.com/people/aLYqyNvYvd) | [菜鸟工具](https://www.jyshare.com/) | [数据生活指南](https://nav.guidebook.top/) | [小众技术](https://www.xiaozhongjishu.com/) | [硬核指南](https://yingheapp.com/) | [ITab](https://go.itab.link/) | [柒夜导航](https://nav.qinight.com/)
+
+**工具**
+
+[B站视频下载工具](https://zhouql.vip/bilibili/)
 
 # 开源项目⭐
 
@@ -404,8 +412,7 @@
 * 接口调用：[apifox](https://apifox.com/help/)
 * [Jrebel](https://jrebel.com.cn/#/)：激活链接
 * [VMware Workstation Pro](https://blog.csdn.net/wangpaiblog/article/details/112152218)：16安装链接
-* [Tampermonkey](https://www.tampermonkey.net/)：浏览器篡改猴
-* [插件用户脚本](https://greasyfork.org/zh-CN/scripts)：篡改猴脚本
+* [Tampermonkey](https://www.tampermonkey.net/)：浏览器篡改猴、[篡改猴脚本](https://greasyfork.org/zh-CN/scripts)
 * [kkfileview安装说明](/soft/kkfileview.md)
 
 # 学习笔记
