@@ -24,6 +24,10 @@
 
 [B站视频下载工具](https://zhouql.vip/bilibili/)
 
+**编程网站**
+
+[GitHub漫游指南](https://github.phodal.com/#/) | [被删的前端游乐场](https://godbasin.github.io/front-end-playground/) | [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days) | [自学SQL网](http://xuesql.cn/) | [Docker — 从入门到实践](https://vuepress.mirror.docker-practice.com/) | [动手学深度学习](https://zh-v2.d2l.ai/)
+
 # 开源项目⭐
 
 ## 开源项目
