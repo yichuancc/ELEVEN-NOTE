@@ -14,7 +14,7 @@
 
 **设计**
 
-[Processon](https://www.processon.com) | [xmind](https://xmind.cn/) | [即时设计](https://js.design/) | [Axure](https://www.axure.com.cn/78629) | [墨刀](https://modao.cc/) | [draw.io](https://app.diagrams.net/) | [pdmaas](https://www.pdmaas.cn/home)
+[Processon](https://www.processon.com) | [xmind](https://xmind.cn/) | [即时设计](https://js.design/) | [Axure](https://www.axure.com.cn/78629) | [墨刀](https://modao.cc/) | [draw.io](https://app.diagrams.net/) | [pdmaas](https://www.pdmaas.cn/home) | [稿定](https://www.gaoding.com/)
 
 **导航网站**
 
@@ -22,11 +22,15 @@
 
 **工具**
 
-[B站视频下载工具](https://zhouql.vip/bilibili/)
+[B站视频下载工具](https://zhouql.vip/bilibili/) | [奇趣网站收藏](https://fuun.fun/) |[Flow - 在线 EPUB 阅读器](https://www.flowoss.com/zh-CN) | [B站封面提取](https://www.bilibiliq.com/)
 
 **编程网站**
 
 [GitHub漫游指南](https://github.phodal.com/#/) | [被删的前端游乐场](https://godbasin.github.io/front-end-playground/) | [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days) | [自学SQL网](http://xuesql.cn/) | [Docker — 从入门到实践](https://vuepress.mirror.docker-practice.com/) | [动手学深度学习](https://zh-v2.d2l.ai/)
+
+**链接**
+
+> [实用网站分享](https://www.zhihu.com/question/275434299/answer/3544229577)
 
 # 开源项目⭐
 
@@ -113,7 +117,7 @@
 * [MCChart](https://echarts.zhangmuchen.top/#/index)
 * [Echarts](https://echarts.apache.org/examples/zh/index.html)
 * [PPchart](https://www.ppchart.com/#/)
-* [Element](https://element.eleme.cn/#/zh-CN/component/installation)
+* [Element](https://element.eleme.cn/#/zh-CN/component/installation)、[TDesign](https://tdesign.tencent.com/)、[AntDesign](https://2x.antdv.com/components/overview-cn/)
 * [Uni-app](https://uniapp.dcloud.net.cn/component/)：是一个使用 [Vue.js](https://vuejs.org/) 开发所有前端应用的框架，开发者编写一套代码，可发布到iOS、Android、Web（响应式）、以及各种小程序（微信/支付宝/百度/头条/飞书/QQ/快手/钉钉/淘宝）、快应用等多个平台
 * [ES6 入门教程](https://es6.ruanyifeng.com/#README)：《ECMAScript 6 入门教程》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
 * [wangEditor](https://www.wangeditor.com/)：开源 Web 富文本编辑器，开箱即用，配置简单
@@ -251,6 +255,7 @@
 * [Mysql完结汇总篇18W字](https://mp.weixin.qq.com/s/i8SHizPrBMQ2GIhQP7ozRw)
 * [一千行 MySQL 详细学习笔记](https://mp.weixin.qq.com/s/OuExJeM53o5AVp_E04RPBQ)
 * [sharding-jdbc 关于读写分离的操作](https://shardingsphere.apache.org/document/legacy/3.x/document/cn/manual/sharding-jdbc/usage/read-write-splitting/)
+* [分库分表 12 种分片算法](https://mp.weixin.qq.com/s/HAoCXGoGCbDt9ZaWCu-qIw)
 * [《芋道 Spring Boot 分库分表入门》](https://mp.weixin.qq.com/s/A2MYOFT7SP-7kGOon8qJaw)
 * [MySQL夺命15问](https://mp.weixin.qq.com/s/BXJybsrD5zy6oiZ31LtTpw)
 * [SQL优化思路+经典案例分析](https://mp.weixin.qq.com/s/z-LajVLaYBWWlpvJVeSOsA)
@@ -272,6 +277,7 @@
 
 * [《 Spring 事务传播行为的理解》](https://mp.weixin.qq.com/s/IglQITCkmx7Lpz60QOW7HA)
 * [@Transactional 事务注解](https://mp.weixin.qq.com/s/Wdk8whUmBfo6VLQRa4rtJA)
+* [工作 6 年，@Transactional 注解用的一塌糊涂](https://mp.weixin.qq.com/s/_FrT0bVqENtNl2c2xb5Exw)
 * [7000字Spring事务总结](https://mp.weixin.qq.com/s/xFnVBqcVNRFQfHyd03iWcg)
 * [@Transactional 注解失效场景](https://mp.weixin.qq.com/s/IcDEEft7bLhnqyo5knwUdw)
 * [提高系统吞吐量的一把利器DeferredResult](https://mp.weixin.qq.com/s/IgJhmePji6lXChVSrAKG2w)
@@ -322,6 +328,7 @@
 * [常见的几种数据同步方案](https://mp.weixin.qq.com/s/dfmyNA-WaBTSrKI8GvrsbQ)
 * [聊聊如何防止别人恶意刷接口](https://mp.weixin.qq.com/s/9F1OuuGRQIf1iwIdsxh87A)
 * [熔断、隔离、重试、降级、超时、限流，一文帮你顺理高可用架构流量治理](https://mp.weixin.qq.com/s/bVQDHn41uhmUd6X0j4_a-g)
+* [接口请求失败重试的8种方案](https://mp.weixin.qq.com/s/QNm50URs-f2sPTkLsX_afA)
 
 ## 技术应用
 
