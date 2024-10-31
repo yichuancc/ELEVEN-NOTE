@@ -330,6 +330,8 @@
 * [熔断、隔离、重试、降级、超时、限流，一文帮你顺理高可用架构流量治理](https://mp.weixin.qq.com/s/bVQDHn41uhmUd6X0j4_a-g)
 * [接口请求失败重试的8种方案](https://mp.weixin.qq.com/s/QNm50URs-f2sPTkLsX_afA)
 
+* [web端后台管理系统的交互设计规范](https://mp.weixin.qq.com/s/v--f-VQzHbkNZ2YXMnfObw)
+
 ## 技术应用
 
 ### 单元测试
