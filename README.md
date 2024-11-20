@@ -124,6 +124,8 @@
 * [axios](http://www.axios-js.com/zh-cn/docs/index.html)：Axios 是一个基于 promise 的 HTTP 库，可以用在浏览器和 node.js 中。
 * [uView](https://www.uviewui.com/components/intro.html)：uView是uni-app生态专用的UI框架，uni-app 是一个使用 Vue.js 开发所有前端应用的框架，开发者编写一套代码， 可发布到iOS、Android、H5、以及各种小程序(微信/支付宝/百度/头条/QQ/钉钉)等多个平台(引言自uni-app网)。但目前除微信小程序，其它小程序平台的兼容可能存在一些问题，后续会针对这方面持续优化。
 * [Vxe Table](https://vxetable.cn/#/table/start/install)：配合 [Vxe UI](https://vxeui.com/) 组件库，更强更好用，支持表单可视化、列表可视化、流程可视化。
+* [TDesign](https://tdesign.tencent.com/design/values)：TDesign 为了在开源体系的基础上打造具有自身品牌特色且好⽤的产品，秉承包容、多元、进化、连接的价值观。
+* [NutUI移动端](https://nutui.jd.com/h5/vue/4x/#/zh-CN/component/button)：NutUI-Vue 组件库，适用于 Vue 技术栈的 H5 应用，开箱即用，帮助研发快速开发用户界面，提升开发效率，改善开发体验。
 
 ### 后端
 
@@ -441,6 +443,7 @@
 * [常用代码](/operation/often_code.md)
 * [Java开发规范](/operation/JavaCrule.md)
 * [Git笔记](/operation/git.md)
+* [Spring笔记](/operation/spring/事务@Transactional注解.md)
 
 ## 运维
 
