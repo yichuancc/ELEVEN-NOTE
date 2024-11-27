@@ -56,6 +56,8 @@
 * [dromara](https://gitee.com/dromara)：为往圣继绝学的开源作者们，是一个由顶尖开源项目维护者自发组织的开源社区，让每一位开源爱好者，体会到开源的快乐。
 * [勾股OA办公系统](https://gitee.com/gouguopen/office)：勾股OA是一款实用的企业办公系统。集成了系统设置、人事管理、消息管理、审批管理、日常办公、客户管理、合同管理、项目管理、财务管理等模块。
 * [orange-form](https://gitee.com/orangeform)/[orange-admin](https://gitee.com/orangeform/orange-admin)：橙单中台化低代码生成器。可完整支持多应用、多租户、多渠道、工作流 (Flowable & Activiti)、在线表单、自定义数据同步、自定义Job、多表关联、跨服务多表关联、框架技术栈自由组合等。
+* [uexam](https://gitee.com/mindskip/uexam)：[学之思教程](https://www.mindskip.net:999/)在线考试系统、考试系统、在线教育考试系统、在线教育、跨平台考试、考试、智能考试、试题、错误试题、考试题目、试题组卷等。
+* [sg-exam](https://github.com/wells2333/sg-exam) - 基于 `Spring Boot` 搭建的新一代**教学管理平台**，提供权限管理、考试、问卷、练习等功能。[在线体验](https://yunmianshi.com.cn/#/home)
 
 ## 开源功能
 
@@ -101,6 +103,7 @@
 * [RocketMQ](https://rocketmq.apache.org/)：RocketMQ 已经成为业内共识的金融级可靠业务消息首选方案，被广泛应用于互联网、大数据、移动互联网、物联网等领域的业务场景。
 * [onlyoffice](https://www.onlyoffice.com/)：ONLYOFFICE是一个开源的在线协作办公套件，结合了文档、电子表格、演示文稿和表单的编辑器。
 * [Jpom项目运维](https://jpom.top/)：简而轻的低侵入式在线构建、自动部署、日常运维、项目运维监控软件。
+* [分布式ID生成器[IdGenerator](https://github.com/yitter/IdGenerator)](https://github.com/yitter/IdGenerator)：多语言实现，高性能生成唯一数字ID。 在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 原生支持C#/Java/Go/Rust/C/JavaScript/TypeScript/Python/Pascal 多语言，提供其它适用于其它语言的多线程安全调用动态库（FFI）。[JavaGuide分布式ID介绍&实现方案总结](https://javaguide.cn/distributed-system/distributed-id.html)
 
 ## other链接
 
@@ -138,6 +141,7 @@
 
 * [httpRunner](https://httprunner.com/)：接口测试 / 压力测试 / DevOps / 数字体验监测
 * [Fiddler抓包工具](https://www.cnblogs.com/yyhh/p/5140852.html)、[Fiddler对手机App应用进行抓包](https://mp.weixin.qq.com/s/-kWODNFg3uH6xWw6ZI7XpA)
+* [使用JMeter进行压力测试](https://www.cnblogs.com/stulzq/p/8971531.html)
 
 ### 博客
 
