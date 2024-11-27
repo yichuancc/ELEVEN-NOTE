@@ -255,6 +255,7 @@
 * [CompletableFuture使用思维导图](https://blog.csdn.net/weixin_37799575/article/details/126526283)、[日常举例](https://blog.csdn.net/weixin_46217160/article/details/124945250)
 * [美团-CompletableFuture原理与实践-外卖商家端API的异步化](https://tech.meituan.com/2022/05/12/principles-and-practices-of-completablefuture.html)
 * [AQS源码condition、CountDownLatch、CyclicBarrier、中断、共享等](https://blog.csdn.net/hancoder/article/details/120954315)
+* [万能的异步处理方案](https://juejin.cn/post/7266087843239084090)、[微信文章](https://mp.weixin.qq.com/s/E72iu4vWgVpVdlday-Os3g)、[GitHub](https://github.com/xiongyanokok/fc-async)
 
 ## 数据库
 
