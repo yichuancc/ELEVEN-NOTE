@@ -57,7 +57,7 @@
 * [勾股OA办公系统](https://gitee.com/gouguopen/office)：勾股OA是一款实用的企业办公系统。集成了系统设置、人事管理、消息管理、审批管理、日常办公、客户管理、合同管理、项目管理、财务管理等模块。
 * [orange-form](https://gitee.com/orangeform)/[orange-admin](https://gitee.com/orangeform/orange-admin)：橙单中台化低代码生成器。可完整支持多应用、多租户、多渠道、工作流 (Flowable & Activiti)、在线表单、自定义数据同步、自定义Job、多表关联、跨服务多表关联、框架技术栈自由组合等。
 * [uexam](https://gitee.com/mindskip/uexam)：[学之思教程](https://www.mindskip.net:999/)在线考试系统、考试系统、在线教育考试系统、在线教育、跨平台考试、考试、智能考试、试题、错误试题、考试题目、试题组卷等。
-* [sg-exam](https://github.com/wells2333/sg-exam) - 基于 `Spring Boot` 搭建的新一代**教学管理平台**，提供权限管理、考试、问卷、练习等功能。[在线体验](https://yunmianshi.com.cn/#/home)
+* [sg-exam](https://github.com/wells2333/sg-exam) - 基于 Spring Boot搭建的新一代**教学管理平台**，提供权限管理、考试、问卷、练习等功能。[在线体验](https://yunmianshi.com.cn/#/home)
 
 ## 开源功能
 
