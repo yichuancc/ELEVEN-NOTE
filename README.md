@@ -408,6 +408,8 @@
 
 * [唠唠嗑！大学那会接私活](https://mp.weixin.qq.com/s/7FlCzf67VdleHF6g7Cbphw)
 * [阿里云的这群疯子](https://developer.aliyun.com/article/653511)、[浅黑科技](https://www.qianhei.net/yinmiwangshi/59.html)
+* [数据脱敏技术](https://mp.weixin.qq.com/s/-2pJ-1VRYzz16-y0i4pYTQ)
+* [一文搞懂第三方支付系统架构设计](https://mp.weixin.qq.com/s/Z2sNg-VjdmGD5kymZPrrYQ)
 
 # 应用软件
 
