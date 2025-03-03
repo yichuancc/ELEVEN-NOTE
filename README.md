@@ -336,8 +336,8 @@
 * [聊聊如何防止别人恶意刷接口](https://mp.weixin.qq.com/s/9F1OuuGRQIf1iwIdsxh87A)
 * [熔断、隔离、重试、降级、超时、限流，一文帮你顺理高可用架构流量治理](https://mp.weixin.qq.com/s/bVQDHn41uhmUd6X0j4_a-g)
 * [接口请求失败重试的8种方案](https://mp.weixin.qq.com/s/QNm50URs-f2sPTkLsX_afA)
-
 * [web端后台管理系统的交互设计规范](https://mp.weixin.qq.com/s/v--f-VQzHbkNZ2YXMnfObw)
+* 低代码平台：[JeecgBoot](https://help.jeecg.com/java/online/form/qa)、[JeeLowCode](https://gitee.com/jeelowecode/JeeLowCode)、[DBAPI](https://gitee.com/freakchicken/db-api)、[Crabc](https://gitee.com/linebyte/crabc)
 
 ## 技术应用
 
@@ -354,6 +354,7 @@
 * [Groovy 初学者指南](https://mp.weixin.qq.com/s/rU-vhCJpnwRgisppFHYY_A)
 * [一个简单的OCR识别引擎](https://mp.weixin.qq.com/s/5ORbLjcdmlvGZzRjiVXEoQ)
 * [手写一个RPC框架](https://mp.weixin.qq.com/s/C9LVfEmo-kQbUnKDt3KuGw)
+* [报表工具](/operation/报表工具.md)
 
 ### 功能应用
 
