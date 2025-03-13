@@ -104,6 +104,7 @@
 * [onlyoffice](https://www.onlyoffice.com/)：ONLYOFFICE是一个开源的在线协作办公套件，结合了文档、电子表格、演示文稿和表单的编辑器。
 * [Jpom项目运维](https://jpom.top/)：简而轻的低侵入式在线构建、自动部署、日常运维、项目运维监控软件。
 * [分布式ID生成器[IdGenerator](https://github.com/yitter/IdGenerator)](https://github.com/yitter/IdGenerator)：多语言实现，高性能生成唯一数字ID。 在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 原生支持C#/Java/Go/Rust/C/JavaScript/TypeScript/Python/Pascal 多语言，提供其它适用于其它语言的多线程安全调用动态库（FFI）。[JavaGuide分布式ID介绍&实现方案总结](https://javaguide.cn/distributed-system/distributed-id.html)
+* [Sa-Token](https://sa-token.cc/doc.html#/)：一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！
 
 ## other链接
 
