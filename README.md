@@ -230,6 +230,10 @@
 * [万字长文：深入浅出RBAC权限设计](https://mp.weixin.qq.com/s/0jQy_gpTxRkmTBuqsxX87w)
 * [一文带你搞定Spring Security + JWT实现前后端分离下的认证授权](https://zhuanlan.zhihu.com/p/342755411)、[GitHub](https://github.com/RudeCrab/rude-java)
 
+## 规则引擎
+
+* [规则引擎uRule pro简介](https://zhuanlan.zhihu.com/p/650422175)
+
 # 转载收藏⭐
 
 ## Java
@@ -356,6 +360,7 @@
 * [一个简单的OCR识别引擎](https://mp.weixin.qq.com/s/5ORbLjcdmlvGZzRjiVXEoQ)
 * [手写一个RPC框架](https://mp.weixin.qq.com/s/C9LVfEmo-kQbUnKDt3KuGw)
 * [报表工具](/operation/报表工具.md)
+* [Minio-plus](https://minio-plus-docs.baldhead.cn/)、[Gitee](https://gitee.com/lxp135/minio-plus)
 
 ### 功能应用
 
