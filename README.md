@@ -444,6 +444,10 @@
 * [Tampermonkey](https://www.tampermonkey.net/)：浏览器篡改猴、[篡改猴脚本](https://greasyfork.org/zh-CN/scripts)
 * [kkfileview安装说明](/soft/kkfileview.md)
 
+**信创**
+
+* [数据库](/soft/database.md)
+
 # 学习笔记
 
 ## 其他
