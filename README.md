@@ -105,6 +105,7 @@
 * [Jpom项目运维](https://jpom.top/)：简而轻的低侵入式在线构建、自动部署、日常运维、项目运维监控软件。
 * [分布式ID生成器[IdGenerator](https://github.com/yitter/IdGenerator)](https://github.com/yitter/IdGenerator)：多语言实现，高性能生成唯一数字ID。 在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 原生支持C#/Java/Go/Rust/C/JavaScript/TypeScript/Python/Pascal 多语言，提供其它适用于其它语言的多线程安全调用动态库（FFI）。[JavaGuide分布式ID介绍&实现方案总结](https://javaguide.cn/distributed-system/distributed-id.html)
 * [Sa-Token](https://sa-token.cc/doc.html#/)：一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！
+* [Poi-tl](https://github.com/Sayi/poi-tl)：poi-tl（poi template language）是Word模板引擎，使用模板和数据**创建很棒的Word文档**。[中文文档](https://deepoove.com/poi-tl/)
 
 ## other链接
 
