@@ -32,6 +32,14 @@
 
 > [实用网站分享](https://www.zhihu.com/question/275434299/answer/3544229577)
 
+# 大模型
+
+[SuperCLUE](https://superclueai.com/)：中文大模型综合性测评基准
+
+[LangChain4j](https://docs.langchain4j.info/) ：中文文档
+
+向量数据库：[milvus](https://milvus.io/zh)
+
 # 开源项目⭐
 
 ## 开源项目
