@@ -40,6 +40,8 @@
 
 向量数据库：[milvus](https://milvus.io/zh)
 
+图灵的猫：[百大AI大应用](https://www.turingscat.com/ai-top-100)
+
 # 开源项目⭐
 
 ## 开源项目
