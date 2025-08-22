@@ -474,6 +474,7 @@
 * [Git笔记](/operation/git.md)
 * [Spring笔记](/operation/spring/事务@Transactional注解.md)
 * [前端笔记](/operation/前端.md)
+* [开发工具配置](/operation/开发工具设置.md)
 
 ## 运维
 
