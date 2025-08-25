@@ -245,6 +245,11 @@
 
 * [规则引擎uRule pro简介](https://zhuanlan.zhihu.com/p/650422175)
 
+## 国际化
+
+* [国际化的多种方案](https://gitee.com/ggBoomTT/internationalize-back-end-solutions)
+* [Java 前后端国际化设计方案](https://gitee.com/Tuan88/myi18n/)
+
 # 转载收藏⭐
 
 ## Java
