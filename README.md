@@ -484,10 +484,7 @@
 
 * [linux日常操作](/operation/linux.md)
 * [linux学习笔记系列](/operation/linux学习笔记.md)
-* [Linux基础命令和工具详解](https://mp.weixin.qq.com/s/XWBIU0oRe59X_diOt_S6ow)
-* [Linux 网络命令大全](https://mp.weixin.qq.com/s/wk_CTSMiKqyGr1IK1AvzcA)
-* [Linux挂载磁盘操作](https://mp.weixin.qq.com/s/X7rHIGSpUtkZuNtrxsgflA)
-* [常用Linux命令详细总结](https://mp.weixin.qq.com/s/q76X6473LUZKmr2DAoYaVQ)
+* [linux收藏笔记](/operation/linux收藏笔记.md)
 
 ## 入门
 
