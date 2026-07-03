@@ -2,6 +2,30 @@
 
  [<b>努力和遗憾，那个更痛苦</b>](https://github.com/yichuancc/elevencc-labs)
 
+# AI
+
+[实用工具](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md)
+
+## 收藏
+
+[关于使用AI开发的问答](https://mp.weixin.qq.com/s/AkBNmyrcmZsgkSzvJNmO7g)
+
+[Qoder Skills 完全指南：从零开始，让 AI 按你的标准执行](https://mp.weixin.qq.com/s/PG-rXJllhrtynAfNZn5asg)
+
+## 技能
+
+[superpowers](https://github.com/obra/superpowers)：brainstorming（头脑风暴）
+
+[agent-browser](https://github.com/vercel-labs/agent-browser)：操作浏览器
+
+[git-commit](https://github.com/github/awesome-copilot/blob/main/skills/git-commit/SKILL.md)：提交代码规范
+
+[canvas-design](https://github.com/anthropics/skills/blob/main/skills/canvas-design/SKILL.md)：生成静态视觉设计作品（如海报、艺术页、封面）
+
+[doc-coauthoring](https://github.com/anthropics/skills/blob/main/skills/doc-coauthoring/SKILL.md)：编写结构化文档的技能
+
+[ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)：设计智能体技能包
+
 # 应用导航
 
 **在线工具**
