@@ -353,6 +353,7 @@
 * [SpringBoot常见的53个注解](https://mp.weixin.qq.com/s/PIMpU6jcj_MpIQl_M_j7nQ)
 * [多任务重试框架：Fast-Retry](https://mp.weixin.qq.com/s/QhywccxOlguvNEU5_xc3kw)
 * [SpringBoot实现接口防抖的几种方案，杜绝重复提交](https://mp.weixin.qq.com/s/hcfvuqOWwYm_7JxJI7hkfw)
+* [SpringBoot配置优化：Tomcat+数据库+缓存+日志全场景教程](https://mp.weixin.qq.com/s/4yc3yKDu7NOuHk0NlymNWg)
 
 **Mybatis**
 
@@ -441,6 +442,7 @@
 * [Nginx七大应用场景](https://mp.weixin.qq.com/s/jfeQJU_buiN1MDzO9GzC5w)
 * [运维实用小脚本，登录即自动显示系统信息](https://mp.weixin.qq.com/s/6bNvXmcJtE05UmGbWsh76w)
 * [Jenkins一键部署前端项目](https://mp.weixin.qq.com/s/xSfRJd6We1uiUE_KGOCjiA)
+* [40道 Nginx 常见面试题](https://mp.weixin.qq.com/s/ZZHmD3gKrwhifrgCM1PbiA)
 
 ## 排查笔记
 
